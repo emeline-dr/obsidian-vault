@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "IMAGE": "multitext",
+    "Ship": "text",
+    "Joueuse": "text",
+    "EMPLOI": "multitext",
+    "RACE": "multitext",
+    "CLASSE": "multitext",
+    "MYTHOLOGIE": "multitext",
+    "Parents": "text"
+  }
+}

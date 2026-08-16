@@ -1,0 +1,129 @@
+/* =========================================================
+   RESIDENT EVIL JDR — CALLOUT WEAPON
+   ========================================================= */
+
+.callout[data-callout="weapon"] {
+    --callout-color: 180, 20, 20;
+    --callout-icon: lucide-crosshair;
+
+    border: 1px solid rgb(100, 100, 100);
+    border-left: 5px solid rgb(150, 20, 20);
+    border-radius: 0;
+    background: linear-gradient(135deg,
+            rgba(35, 35, 35, 0.98),
+            rgba(18, 18, 18, 0.98));
+
+    color: #e5e5e5;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.35);
+
+    padding: 0;
+    overflow: hidden;
+}
+
+/* ---------------------------------------------------------
+   EN-TÊTE
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] .callout-title {
+    background: linear-gradient(90deg,
+            rgba(120, 15, 15, 0.95),
+            rgba(65, 15, 15, 0.95));
+
+    color: #ffffff;
+
+    font-family: "Arial Narrow", "Roboto Condensed", sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+
+    padding: 10px 14px;
+
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+/* Icône */
+
+.callout[data-callout="weapon"] .callout-icon {
+    color: #ffffff;
+}
+
+/* ---------------------------------------------------------
+   CONTENU
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] .callout-content {
+    padding: 14px 16px;
+}
+
+/* ---------------------------------------------------------
+   TITRES DANS LE CALLOUT
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] h1,
+.callout[data-callout="weapon"] h2,
+.callout[data-callout="weapon"] h3 {
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* ---------------------------------------------------------
+   TEXTE EN GRAS
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] strong {
+    color: #ffffff;
+}
+
+/* ---------------------------------------------------------
+   TABLEAUX
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+}
+
+.callout[data-callout="weapon"] th {
+    background: rgba(120, 20, 20, 0.75);
+    color: #ffffff;
+
+    text-transform: uppercase;
+    font-size: 0.8em;
+    letter-spacing: 0.05em;
+
+    padding: 7px;
+    border: 1px solid #555;
+}
+
+.callout[data-callout="weapon"] td {
+    background: rgba(255, 255, 255, 0.04);
+    padding: 7px;
+    border: 1px solid #444;
+    text-align: center;
+}
+
+/* ---------------------------------------------------------
+   LISTES
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] ul,
+.callout[data-callout="weapon"] ol {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+/* ---------------------------------------------------------
+   CITATIONS / DESCRIPTION
+   --------------------------------------------------------- */
+
+.callout[data-callout="weapon"] blockquote {
+    border-left: 3px solid rgb(150, 20, 20);
+    background: rgba(255, 255, 255, 0.04);
+
+    margin: 12px 0;
+    padding: 8px 12px;
+
+    color: #cfcfcf;
+}

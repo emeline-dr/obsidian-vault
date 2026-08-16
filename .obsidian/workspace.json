@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "aac52f931182baa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e2193604178ea5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401606809fa3628f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resident Evil - JDR/Armes/M92F.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "M92F"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84faf52e1b599ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4396c830781c4924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2df82095775b8b91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "afcf5946a3eac63b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "0f8d70de69ed59d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21fff2112ecb606e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f476721cc5cab942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14c9ca68e07e50f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "6f04ab5755d95714",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "fc94310839445767",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "fa8fd8a9b8051710",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "a524d94ad0431cb4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2df82095775b8b91",
+  "lastOpenFiles": [
+    "Univers/Biohazard World/Biohazard.base",
+    "Resident Evil - JDR/Armes/M92F.md",
+    "Resident Evil - JDR/Armes",
+    "Resident Evil - JDR/Manuel",
+    "Resident Evil - JDR",
+    "Fanfic/LiS.canvas",
+    "Fanfic",
+    "Univers/Biohazard World/Personnages/Leon S. Kennedy/Leon S. Kennedy.md",
+    "Univers/Biohazard World/Personnages/Jill Valentine/Jill Valentine.md",
+    "Univers/Biohazard World/Personnages/Ada Wong/Ada Wong.md",
+    "Templates/Biohazard.md",
+    "Univers/Biohazard World/Personnages/Claire Redfield/Claire Redfield.md",
+    "Assets/Images/Biohazard/ada-wong.jpg",
+    "Templates",
+    "Univers/Biohazard World/Personnages/Claire Redfield 1/Claire Redfield.md",
+    "Univers/Biohazard World/Personnages/Claire Redfield 1",
+    "Assets/Images/Biohazard/claire-redfield.jpg",
+    "Assets/Images/Biohazard",
+    "Assets/Images/Biohazard/jill-valentine.jpg",
+    "Assets/Images/Biohazard/leon-kennedy.jpg",
+    "Assets/Images",
+    "Assets",
+    "Univers/Biohazard World/Personnages/Claire Redfield/claire-redfield.jpg",
+    "Univers/Biohazard World/Personnages/Claire Redfield/portrait.md",
+    "ba3488dd56c834657191656304acd36d.jpg",
+    "Univers/Biohazard World/C.md",
+    "Godverse/Personnages/Apollon.md",
+    "Godverse/Panthéons/Grec.md",
+    "Zeus.md",
+    "Godverse/Dashboard.md",
+    "Bienvenue.md",
+    "Biohazard World.jpeg",
+    "Notion/Biohazard World/Personnages (1)/Ada Wong.md",
+    "Notion/Biohazard World/Personnages (1)/Claire Redfield.md",
+    "Notion/Biohazard World/Personnages (1)/Jill Valentine.md",
+    "Notion/Biohazard World/Personnages (1)/Leon S. Kennedy.md",
+    "Notion/Godverse/Godverse.md",
+    "Godverse.jpeg",
+    "Notion/Godverse/Personnages/Eros.md",
+    "https--i.pinimg.com-736x-ba-7b-f0-ba7bf023e7e6577cba023f9b3925f916.jpg",
+    "Notion/Godverse/Personnages/Gilgamesh.md",
+    "https--i.pinimg.com-736x-48-04-12-480412a740c3f8de64fa725c581ecfb6.jpg",
+    "Notion/Godverse/Personnages/Ishtar.md",
+    "Notion/Godverse/Fantasy World (1)/Fantasy World (1).md",
+    "Notion/Godverse/Fantasy World (1)/Personnages (1)/Personnages (1) Nom du personnage.md",
+    "Notion/Biohazard World/Biohazard World.md"
+  ]
+}
