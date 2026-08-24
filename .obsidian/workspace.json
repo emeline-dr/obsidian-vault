@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2e2193604178ea5b",
+        "id": "5baba322e5f259da",
         "type": "tabs",
         "children": [
           {
-            "id": "401606809fa3628f",
+            "id": "71bdae4bae79ad9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resident Evil - JDR/Armes/M92F.md",
+                "file": "Resident Evil - JDR/Manuel/Règles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M92F"
+              "title": "Règles"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -89,11 +91,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14c9ca68e07e50f9",
+            "id": "5226ca4de39eb135",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resident Evil - JDR/Armes/Armes de poing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +106,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour Armes de poing"
             }
           },
           {
-            "id": "6f04ab5755d95714",
+            "id": "3bf717141f50a61b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resident Evil - JDR/Armes/Armes de poing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants"
+              "title": "Liens sortants de Armes de poing"
             }
           },
           {
-            "id": "fc94310839445767",
+            "id": "2dae7552a6a7a450",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +139,7 @@
             }
           },
           {
-            "id": "fa8fd8a9b8051710",
+            "id": "423f14344c5efaf8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,24 +153,30 @@
             }
           },
           {
-            "id": "a524d94ad0431cb4",
+            "id": "8855d210be52b4e8",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "file": "Resident Evil - JDR/Armes/Armes de poing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Armes de poing"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 330.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "relations:Open Relations graph": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -175,57 +185,56 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
       "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2df82095775b8b91",
+  "active": "71bdae4bae79ad9a",
   "lastOpenFiles": [
-    "Univers/Biohazard World/Biohazard.base",
-    "Resident Evil - JDR/Armes/M92F.md",
-    "Resident Evil - JDR/Armes",
-    "Resident Evil - JDR/Manuel",
-    "Resident Evil - JDR",
+    "Resident Evil - JDR/Manuel/Liste des compétences.md",
+    "Resident Evil - JDR/Manuel/Fiche de personnage.md",
+    "Resident Evil - JDR/Équipement/Fusils.md",
+    "Assets/Images/Armes/Fusils/shull-shaker.jpg",
+    "Resident Evil - JDR/Équipement/Protections.md",
+    "Resident Evil - JDR/Équipement/Mitraillettes.md",
+    "Resident Evil - JDR/Équipement/Pistolets.md",
+    "Resident Evil - JDR/Équipement/Magnums.md",
+    "Resident Evil - JDR/Équipement/Fusils de précision.md",
+    "Resident Evil - JDR/Équipement/Fusils d'assaut.md",
+    "Resident Evil - JDR/Équipement/Armes Diverses.md",
+    "Resident Evil - JDR/Équipement/Armes blanches & càc.md",
+    "Resident Evil - JDR/Manuel/Règles.md",
+    "Compétences JDR Resident Evil.md",
+    "Armement JDR RE.md",
+    "Assets/Images/Armes/Fusils de précision/sr-m1903.png",
+    "Assets/Images/Armes/Fusils de précision/psg1.png",
+    "Assets/Images/Armes/Fusils de précision/stingray.png",
+    "Assets/Images/Armes/Fusils d'assaut/m4a1.png",
+    "Assets/Images/Armes/Fusils d'assaut/hk416.jpg",
+    "Assets/Images/Armes/Fusils d'assaut/ak47.png",
+    "Assets/Images/Armes/Fusils d'assaut/m16.jpg",
+    "Assets/Images/Armes/Armes diverses/crossbow.png",
+    "Assets/Images/Armes/Armes diverses/bow.png",
+    "Resident Evil - JDR/Armes/Fusils d'assaut",
+    "Assets/Images/Armes/Armes blanches & càc",
+    "Assets/Images/Armes/Armes diverses",
+    "Assets/Images/Armes/Fusils de précision",
+    "Assets/Images/Armes/Fusils d'assaut",
+    "Assets/Images/Armes/Mitraillettes",
+    "Notes Anouk.md",
+    "Assets/Images/Armes/Fusils",
+    "Assets/Images/Armes/Magnums",
+    "Assets/Images/Armes/Pistolets",
+    "Assets/Images",
     "Fanfic/LiS.canvas",
-    "Fanfic",
     "Univers/Biohazard World/Personnages/Leon S. Kennedy/Leon S. Kennedy.md",
     "Univers/Biohazard World/Personnages/Jill Valentine/Jill Valentine.md",
     "Univers/Biohazard World/Personnages/Ada Wong/Ada Wong.md",
     "Templates/Biohazard.md",
     "Univers/Biohazard World/Personnages/Claire Redfield/Claire Redfield.md",
-    "Assets/Images/Biohazard/ada-wong.jpg",
-    "Templates",
     "Univers/Biohazard World/Personnages/Claire Redfield 1/Claire Redfield.md",
-    "Univers/Biohazard World/Personnages/Claire Redfield 1",
-    "Assets/Images/Biohazard/claire-redfield.jpg",
-    "Assets/Images/Biohazard",
-    "Assets/Images/Biohazard/jill-valentine.jpg",
-    "Assets/Images/Biohazard/leon-kennedy.jpg",
-    "Assets/Images",
-    "Assets",
-    "Univers/Biohazard World/Personnages/Claire Redfield/claire-redfield.jpg",
     "Univers/Biohazard World/Personnages/Claire Redfield/portrait.md",
-    "ba3488dd56c834657191656304acd36d.jpg",
     "Univers/Biohazard World/C.md",
     "Godverse/Personnages/Apollon.md",
-    "Godverse/Panthéons/Grec.md",
-    "Zeus.md",
-    "Godverse/Dashboard.md",
-    "Bienvenue.md",
-    "Biohazard World.jpeg",
-    "Notion/Biohazard World/Personnages (1)/Ada Wong.md",
-    "Notion/Biohazard World/Personnages (1)/Claire Redfield.md",
-    "Notion/Biohazard World/Personnages (1)/Jill Valentine.md",
-    "Notion/Biohazard World/Personnages (1)/Leon S. Kennedy.md",
-    "Notion/Godverse/Godverse.md",
-    "Godverse.jpeg",
-    "Notion/Godverse/Personnages/Eros.md",
-    "https--i.pinimg.com-736x-ba-7b-f0-ba7bf023e7e6577cba023f9b3925f916.jpg",
-    "Notion/Godverse/Personnages/Gilgamesh.md",
-    "https--i.pinimg.com-736x-48-04-12-480412a740c3f8de64fa725c581ecfb6.jpg",
-    "Notion/Godverse/Personnages/Ishtar.md",
-    "Notion/Godverse/Fantasy World (1)/Fantasy World (1).md",
-    "Notion/Godverse/Fantasy World (1)/Personnages (1)/Personnages (1) Nom du personnage.md",
-    "Notion/Biohazard World/Biohazard World.md"
+    "Godverse/Panthéons/Grec.md"
   ]
 }
