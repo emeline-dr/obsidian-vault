@@ -29,8 +29,8 @@
 >Il n'y a pas d'ordre : il est possible d'attaquer puis de se mouvoir ou même de se déplacer, d'attaquer puis de se déplacer à nouveau s'il reste du mouvement.
 
 >[!rule] Attaquer
->Le personnage attaquant doit lancer les dés et prendre en compte la règle du jet de résolution d'attaque. Selon l'attaque, les caractéristiques sont différentes et il peut ajouter des compétences sur son jet. Si l'attaque est réussie, il faut lancer les dés de dégâts. En cas de réussite critique, il faut lancer +1d. Ainsi, pour une arme demandant 1d6, ça fera : 2d6. Une arme à 2d6, ça fera : 3d6. En cas d'échec critique, c'est au MJ de décider la conséquence de ce jet.
+>Le personnage attaquant doit lancer les dés et prendre en compte la règle du jet de résolution d'attaque. Selon l'attaque, les caractéristiques sont différentes et il peut ajouter des compétences sur son jet. Si l'attaque est réussie, il faut lancer les dés de dégâts. Au résultat, il faut retirer la protection en faisant bien attention à son seuil de durabilité.
+>
+>En cas de réussite critique, il faut lancer +1d. Ainsi, pour une arme demandant 1d6, ça fera : 2d6. Une arme à 2d6, ça fera : 3d6. En cas d'échec critique, c'est au MJ de décider la conséquence de ce jet.
 >
 >Par exemple, Cecily veut attaquer un zombie avec une dague. Pour faire ce jet, elle prend sa **FOR** de 2 et son **AGI** de 5. Ça fait 7 et, avec la compétence **Armes blanches** qui est +2, elle doit faire 9 ou -. Elle la réussit en faisant 4 et fait donc son jet de dégâts. La dague permettant de taper 2x par tour, elle peut refaire un jet d'attaque et tenter de finir l'adversaire.
-
->[!rule]
