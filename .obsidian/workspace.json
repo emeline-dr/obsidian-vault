@@ -176,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "relations:Open Relations graph": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
@@ -190,6 +191,9 @@
   },
   "active": "71bdae4bae79ad9a",
   "lastOpenFiles": [
+    "Resident Evil - JDR/Équipement/Armes blanches & càc.md",
+    "Resident Evil - JDR/Manuel/Règles.md",
+    "Resident Evil - JDR/Équipement/Magnums.md",
     "Resident Evil - JDR/Manuel/Liste des compétences.md",
     "Resident Evil - JDR/Manuel/Fiche de personnage.md",
     "Resident Evil - JDR/Équipement/Fusils.md",
@@ -197,12 +201,9 @@
     "Resident Evil - JDR/Équipement/Protections.md",
     "Resident Evil - JDR/Équipement/Mitraillettes.md",
     "Resident Evil - JDR/Équipement/Pistolets.md",
-    "Resident Evil - JDR/Équipement/Magnums.md",
     "Resident Evil - JDR/Équipement/Fusils de précision.md",
     "Resident Evil - JDR/Équipement/Fusils d'assaut.md",
     "Resident Evil - JDR/Équipement/Armes Diverses.md",
-    "Resident Evil - JDR/Équipement/Armes blanches & càc.md",
-    "Resident Evil - JDR/Manuel/Règles.md",
     "Compétences JDR Resident Evil.md",
     "Armement JDR RE.md",
     "Assets/Images/Armes/Fusils de précision/sr-m1903.png",
