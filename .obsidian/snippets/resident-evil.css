@@ -114,5 +114,43 @@
 
 .callout strong,
 .callout em {
-    color: var(--re-orange)
+    color: var(--re-orange);
+}
+
+.markdown-preview-view table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--re-bg-secondary);
+    color: var(--re-text);
+}
+
+.markdown-preview-view th {
+    background: var(--re-red);
+    color: var(--re-text);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.markdown-preview-view th,
+.markdown-preview-view td {
+    border: 1px solid var(--re-border);
+    padding: 8px 10px;
+}
+
+.markdown-preview-view tr:nth-child(even) {
+    background: var(--re-bg-tertiary);
+}
+
+.markdown-preview-view code {
+    background: var(--re-bg-tertiary);
+    color: var(--re-acid);
+    border: 1px solid var(--re-border);
+    border-radius: 0;
+    padding: 5pxpx;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: "JetBrains Mono", monospace;
 }
