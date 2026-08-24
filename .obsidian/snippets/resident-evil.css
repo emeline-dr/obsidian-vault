@@ -1,154 +1,88 @@
 /* =========================================================
-   RESIDENT EVIL JDR — CALLOUTS
-   STYLE COMMUN
+   RESIDENT EVIL JDR
+   STYLE — DARK / BIOHAZARD / TERMINAL
    ========================================================= */
 
-/* Tous les callouts RE */
 
-.callout[data-callout="weapon"],
-.callout[data-callout="rule"],
-.callout[data-callout="creature"],
-.callout[data-callout="item"],
-.callout[data-callout="location"] {
+/* =========================================================
+   01 — PALETTE
+   ========================================================= */
 
-    --callout-color: 180, 20, 20;
+:root {
+    --re-bg: #111313;
+    --re-bg-secondary: #181B1B;
+    --re-bg-tertiary: #202323;
 
-    border: 1px solid rgb(100, 100, 100);
-    border-left: 5px solid rgb(150, 20, 20);
+    --re-text: #F5F5F5;
+    --re-text-muted: #B8B8B8;
+    --re-text-dark: #252525;
 
-    border-radius: 0;
+    --re-red: #B51F2A;
+    --re-red-dark: #74151C;
+    --re-red-light: #D13A44;
+
+    --re-purple: #8B2BB8;
+    --re-purple-dark: #5D1B7A;
+
+    --re-acid: #D7F000;
+    --re-orange: #E65A32;
+
+    --re-border: #383838;
+    --re-border-light: #505050;
+}
+
+
+/* =========================================================
+   02 — FOND
+   ========================================================= */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-scroller {
+    background-color: var(--re-bg);
+}
+
+
+/* Texture très discrète */
+
+.markdown-preview-view::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+
+    pointer-events: none;
+    z-index: 0;
 
     background:
-        linear-gradient(135deg,
-            rgba(35, 35, 35, 0.98),
-            rgba(18, 18, 18, 0.98));
+        repeating-linear-gradient(135deg,
+            rgba(245, 245, 245, 0.018) 0px,
+            rgba(245, 245, 245, 0.018) 1px,
+            transparent 1px,
+            transparent 7px);
 
-    color: #e5e5e5;
-
-    box-shadow:
-        0 3px 10px rgba(0, 0, 0, 0.35);
-
-    padding: 0;
-
-    overflow: hidden;
+    opacity: 0.55;
 }
 
 
 /* =========================================================
-   EN-TÊTE COMMUN
+   03 — TEXTE
    ========================================================= */
 
-.callout[data-callout="weapon"] .callout-title,
-.callout[data-callout="rule"] .callout-title,
-.callout[data-callout="creature"] .callout-title,
-.callout[data-callout="item"] .callout-title,
-.callout[data-callout="location"] .callout-title {
-
-    background:
-        linear-gradient(90deg,
-            rgba(120, 15, 15, 0.95),
-            rgba(65, 15, 15, 0.95));
-
-    color: #ffffff;
-
-    font-family:
-        "Arial Narrow",
-        "Roboto Condensed",
-        sans-serif;
-
-    font-weight: 800;
-
-    text-transform: uppercase;
-
-    letter-spacing: 0.08em;
-
-    padding: 10px 14px;
-
-    border-bottom:
-        1px solid rgba(255, 255, 255, 0.15);
+.markdown-preview-view,
+.markdown-source-view {
+    color: var(--re-text);
 }
 
-
-/* =========================================================
-   ICÔNES
-   ========================================================= */
-
-.callout[data-callout="weapon"] {
-    --callout-icon: lucide-crosshair;
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view td {
+    color: var(--re-text);
 }
 
-.callout[data-callout="rule"] {
-    --callout-icon: lucide-book-open;
+.markdown-preview-view strong,
+.markdown-preview-view em {
+    color: var(--re-red);
 }
 
-.callout[data-callout="creature"] {
-    --callout-icon: lucide-skull;
-}
-
-.callout[data-callout="item"] {
-    --callout-icon: lucide-package;
-}
-
-.callout[data-callout="location"] {
-    --callout-icon: lucide-map-pin;
-}
-
-
-/* =========================================================
-   ICÔNE — STYLE COMMUN
-   ========================================================= */
-
-.callout[data-callout="weapon"] .callout-icon,
-.callout[data-callout="rule"] .callout-icon,
-.callout[data-callout="creature"] .callout-icon,
-.callout[data-callout="item"] .callout-icon,
-.callout[data-callout="location"] .callout-icon {
-
-    color: #ffffff;
-}
-
-
-/* =========================================================
-   CONTENU COMMUN
-   ========================================================= */
-
-.callout[data-callout="weapon"] .callout-content,
-.callout[data-callout="rule"] .callout-content,
-.callout[data-callout="creature"] .callout-content,
-.callout[data-callout="item"] .callout-content,
-.callout[data-callout="location"] .callout-content {
-
-    padding: 14px 16px;
-}
-
-
-/* =========================================================
-   TITRES
-   ========================================================= */
-
-.callout[data-callout="weapon"] h1,
-.callout[data-callout="weapon"] h2,
-.callout[data-callout="weapon"] h3,
-
-.callout[data-callout="rule"] h1,
-.callout[data-callout="rule"] h2,
-.callout[data-callout="rule"] h3,
-
-.callout[data-callout="creature"] h1,
-.callout[data-callout="creature"] h2,
-.callout[data-callout="creature"] h3,
-
-.callout[data-callout="item"] h1,
-.callout[data-callout="item"] h2,
-.callout[data-callout="item"] h3,
-
-.callout[data-callout="location"] h1,
-.callout[data-callout="location"] h2,
-.callout[data-callout="location"] h3 {
-
-    color: #ffffff;
-
-    text-transform: uppercase;
-
-    letter-spacing: 0.05em;
+.markdown-preview-view h1 {
+    text-decoration: none !important;
 }

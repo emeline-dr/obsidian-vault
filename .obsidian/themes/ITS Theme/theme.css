@@ -2998,7 +2998,7 @@ body,
   --drag-ghost-background: var(--dark-accent);
   --drag-ghost-text-color: var(--text-dl);
   --tooltip-color: var(--text-dl);
-  --italic-color: inherit;
+  --italic-color: var(--lite-accent);
   --bold-color: var(--lite-accent);
   --text-dl: #e5ebee;
   --accent-text: #dcddde;

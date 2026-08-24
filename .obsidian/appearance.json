@@ -2,5 +2,7 @@
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "resident-evil"
-  ]
+  ],
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 16
 }
