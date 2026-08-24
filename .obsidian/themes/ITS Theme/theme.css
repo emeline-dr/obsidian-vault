@@ -4371,7 +4371,6 @@ h1::after,
   display: block;
   background: var(--h1-border-right-color);
   width: var(--h1-border-line-width);
-  height: var(--h1-border-line-height);
   margin: var(--header-border-line-align);
 }
 
@@ -4401,7 +4400,6 @@ h2::after,
   display: block;
   background: var(--h2-border-right-color);
   width: var(--h2-border-line-width);
-  height: var(--h2-border-line-height);
   margin: var(--header-border-line-align);
 }
 
@@ -4431,7 +4429,6 @@ h3::after,
   display: block;
   background: var(--h3-border-right-color);
   width: var(--h3-border-line-width);
-  height: var(--h3-border-line-height);
   margin: var(--header-border-line-align);
 }
 
@@ -4461,7 +4458,6 @@ h4::after,
   display: block;
   background: var(--h4-border-right-color);
   width: var(--h4-border-line-width);
-  height: var(--h4-border-line-height);
   margin: var(--header-border-line-align);
 }
 
@@ -4491,7 +4487,6 @@ h5::after,
   display: block;
   background: var(--h5-border-right-color);
   width: var(--h5-border-line-width);
-  height: var(--h5-border-line-height);
   margin: var(--header-border-line-align);
 }
 
@@ -4521,7 +4516,6 @@ h6::after,
   display: block;
   background: var(--h6-border-right-color);
   width: var(--h6-border-line-width);
-  height: var(--h6-border-line-height);
   margin: var(--header-border-line-align);
 }
 
