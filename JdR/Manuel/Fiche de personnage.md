@@ -131,6 +131,7 @@ Si les dégâts sont **inférieurs** ou **égaux** à la protection, la pièce n
 
 Si les dégâts sont **supérieurs** à la protection, la pièce perdra **les points qu'elle a absorbé** et le personnage perdra les points restants.
 
+
 >[!rule] Objets
 
 À placer dans l'inventaire, il y a des objets diverses utilités. Ça passe de l'objet de soin aux munitions, à des objets plus utilitaires comme un kit de crochetage, etc.
@@ -150,6 +151,7 @@ Tout d'abord, il y a les herbes. **Attention**, il est impossible d'en acheter !
 
 - **Herbe Bleue**
 	- Cette herbe bleue a été créée par Umbrella Corps. pour soigner les étas empoisonnés de ses employés — sûrement à cause de tous les tests et créatures rôdant dans les couloirs. Consommée seule, elle soigne l'état *empoisonné*.
+
 
 Le seul objet de soin qu'il est possible d'acheter est celui-ci :
 - **Spray de premier secours**

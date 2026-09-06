@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5baba322e5f259da",
+        "id": "c748c60a889607b5",
         "type": "tabs",
         "children": [
           {
-            "id": "71bdae4bae79ad9a",
+            "id": "3a9dae8664e28e35",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,10 +189,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "71bdae4bae79ad9a",
+  "active": "3a9dae8664e28e35",
   "lastOpenFiles": [
-    "Compétences JDR Resident Evil.md",
     "JdR/Manuel/Artisanat.md",
+    "JdR/Manuel/Fiche de personnage.md",
+    "JdR/Manuel/Règles.md",
+    "Compétences JDR Resident Evil.md",
     "JdR/Équipement/Protections.md",
     "JdR/Équipement/Pistolets.md",
     "JdR/Équipement/Mitraillettes.md",
@@ -202,9 +204,7 @@
     "JdR/Équipement/Fusils.md",
     "JdR/Équipement/Armes Diverses.md",
     "JdR/Équipement/Armes blanches & càc.md",
-    "JdR/Manuel/Fiche de personnage.md",
     "JdR/Manuel/Liste des compétences.md",
-    "JdR/Manuel/Règles.md",
     "test.md",
     "Assets/Images/Armes/Fusils/shull-shaker.jpg",
     "Armement JDR RE.md",

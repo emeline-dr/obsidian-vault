@@ -5,9 +5,8 @@ Pour résoudre une action, il faut lancer **2d6**. Le résultat doit être égal
 
 Par exemple, James doit faire un jet d'investigation pour se rendre compte de certains détails dans la zone. Il prend sa caractéristique PER qui est de 3, il fait x2. Il ne maîtrise pas la compétence Investigation, ce qui fait : -1. Ses 2d6 doivent faire 5 ou -.
 
-Un **double 1** est une réussite critique et un **double 6** est un échec critique.
-<br>
-<br>
+Un **double 1** est une réussite critique et un **double 6** est un échec critique. Lors de l'échec critique en utilisant une arme quelconque, le MJ peut décider de rendre l'arme inefficace jusqu'à réparation.
+
 
 ## Combat
 
