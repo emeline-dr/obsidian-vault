@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JdR/Manuel/Artisanat.md",
+                "file": "JdR/Manuel/Liste des compétences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artisanat"
+              "title": "Liste des compétences"
             }
           }
         ]
@@ -191,9 +191,10 @@
   },
   "active": "3a9dae8664e28e35",
   "lastOpenFiles": [
-    "JdR/Manuel/Artisanat.md",
     "JdR/Manuel/Fiche de personnage.md",
+    "JdR/Manuel/Artisanat.md",
     "JdR/Manuel/Règles.md",
+    "JdR/Manuel/Liste des compétences.md",
     "Compétences JDR Resident Evil.md",
     "JdR/Équipement/Protections.md",
     "JdR/Équipement/Pistolets.md",
@@ -204,7 +205,6 @@
     "JdR/Équipement/Fusils.md",
     "JdR/Équipement/Armes Diverses.md",
     "JdR/Équipement/Armes blanches & càc.md",
-    "JdR/Manuel/Liste des compétences.md",
     "test.md",
     "Assets/Images/Armes/Fusils/shull-shaker.jpg",
     "Armement JDR RE.md",
