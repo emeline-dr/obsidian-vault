@@ -9,7 +9,7 @@
 
 > [!rule] Caractéristiques
 
- Au nombre de 8, elles sont utilisées lors de la résolution d'action. Les points à répartir sont de **20**. À la création, le minimum est de **1** et le maximum est de **4**. Le 5e et 6e niveau ne peut être obtenu que plus tard, via achat — toute caractéristique peut être améliorée via la dépense d'XP.
+ Au nombre de 8, elles sont utilisées lors de la résolution d'action. Les points à répartir sont de **20**. À la création, le minimum est de **1** et le maximum est de **4**. Le 5e et 6e niveau ne peut être obtenu que plus tard, via achat — toute caractéristique peut être améliorée via la dépense d'XP. Un personnage ne peut avoir qu'une caractéristique au niveau 6 et deux au niveau 5.
  
  - **Force** (FOR) - c'est la force, la puissance brute du personnage.
  - **Agilité** (AGL) - tout ce qui demande des réflexes, de la souplesse...
