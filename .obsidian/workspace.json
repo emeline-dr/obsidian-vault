@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JdR/Manuel/Fiche de personnage.md",
+                "file": "JdR/Manuel/Bestiaire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiche de personnage"
+              "title": "Bestiaire"
             }
           }
         ]
@@ -191,9 +191,11 @@
   },
   "active": "3a9dae8664e28e35",
   "lastOpenFiles": [
-    "JdR/Manuel/Liste des compétences.md",
-    "JdR/Manuel/Règles.md",
     "JdR/Manuel/Fiche de personnage.md",
+    "JdR/Manuel/Bestiaire.md",
+    "JdR/Manuel/Artisanat.md",
+    "JdR/Manuel/Règles.md",
+    "JdR/Manuel/Liste des compétences.md",
     "JdR/Équipement/Protections.md",
     "JdR/Équipement/Armes Diverses.md",
     "JdR/Équipement/Armes blanches & càc.md",
@@ -203,7 +205,6 @@
     "JdR/Équipement/Fusils d'assaut.md",
     "JdR/Équipement/Fusils.md",
     "JdR/Équipement/Pistolets.md",
-    "JdR/Manuel/Artisanat.md",
     "Compétences JDR Resident Evil.md",
     "test.md",
     "Assets/Images/Armes/Fusils/shull-shaker.jpg",
@@ -236,7 +237,6 @@
     "Univers/Biohazard World/Personnages/Claire Redfield/Claire Redfield.md",
     "Univers/Biohazard World/Personnages/Claire Redfield 1/Claire Redfield.md",
     "Univers/Biohazard World/Personnages/Claire Redfield/portrait.md",
-    "Univers/Biohazard World/C.md",
-    "Godverse/Personnages/Apollon.md"
+    "Univers/Biohazard World/C.md"
   ]
 }
