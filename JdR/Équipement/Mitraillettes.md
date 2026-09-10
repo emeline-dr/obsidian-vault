@@ -43,7 +43,7 @@ Le **VZ61** est une mitraillette ayant une faible puissance de feu, mais posséd
 - **Type :** Pistolet-mitrailleur
 - **Dégâts :** 1d6 + 1
 - **Cadence :** 2 / tour OU Rafale de 5 balles (Malus de -4 au jet de tir)  
-- **Chargeur :** 632 
+- **Chargeur :** 40
 - **Portée :** 20 m
 - **Coût :** 4 Spinelles
 

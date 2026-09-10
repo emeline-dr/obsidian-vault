@@ -17,7 +17,7 @@
 - **Type :** Fusil d'assaut militaire
 - **Dégâts :** 1d6 + 1
 - **Cadence :** 1 / tour OU Rafale de 5 balles (Malus de -4 au jet de tir)  
-- **Chargeur :** 30
+- **Chargeur :** 20
 - **Portée :**  50 m
 - **Coût :** 5 Spinelles
 
@@ -43,7 +43,7 @@
 - **Dégâts :** 1d6 + 1
 - **Cadence :** 1 / tour OU Rafale de 5 balles (Malus de -4 au jet de tir)  
 - **Chargeur :** 30
-- **Portée :**  40 m
-- **Coût :** 5 Spinelles
+- **Portée :**  55 m
+- **Coût :** 6 Spinelles
 
  Le **HK416** est le fusil d'assaut le plus précis, permettant d'atteindre sa cible en étant à 300m de celle-ci et est principalement utilisé par les *forces armées*.

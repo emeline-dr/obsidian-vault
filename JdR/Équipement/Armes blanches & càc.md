@@ -24,6 +24,6 @@
  >[!weapon] Épée, katane, hache...
 
 - **Type :** Armes blanches longues
-- **Dégâts :** 1d6 + 2
+- **Dégâts :** 1d4 + 2
 - **Cadence :** 1 / tour
 - **Coût :** 2 Spinelles

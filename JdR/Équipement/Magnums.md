@@ -32,7 +32,7 @@
 - **Dégâts :** 2d6 + 4
 - **Cadence :** 1 / tour  
 - **Chargeur :** 10 
-- **Portée :** 25 m
+- **Portée :** 20 m
 - **Coût :** 7 Spinelles
 
  Le **Killer7** est un magnum semi-automatique apprécié des *mercenaires* qui prennent le temps de le modifier afin d'améliorer sa puissance de feu relativement basique.
