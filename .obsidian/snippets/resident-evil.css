@@ -87,7 +87,6 @@
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
     background: var(--re-bg-tertiary);
-    clip-path: polygon(5% 0%, 100% 0%, 95% 100%, 0% 100%);
     padding: 5px 35px;
     margin: 25px 0;
 }
@@ -153,4 +152,25 @@
     text-transform: uppercase;
     font-size: 16px;
     font-family: "JetBrains Mono", monospace;
+}
+
+.callout[data-callout="monster"] {
+
+    --callout-color: 180, 20, 20;
+
+    --callout-icon: lucide-biohazard;
+
+}
+
+.callout[data-callout="monster"] hr::before,
+.callout[data-callout="monster"] hr::after {
+    display: none !important;
+    content: none !important;
+}
+
+.callout[data-callout="monster"] hr {
+    background: none !important;
+    background-image: none !important;
+    border: 0 !important;
+    border-top: 1px solid var(--re-border) !important;
 }

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JdR/Manuel/Bestiaire.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "21fff2112ecb606e",
@@ -191,17 +192,17 @@
   },
   "active": "3a9dae8664e28e35",
   "lastOpenFiles": [
-    "JdR/Manuel/Fiche de personnage.md",
-    "JdR/Manuel/Bestiaire.md",
     "JdR/Manuel/Artisanat.md",
+    "JdR/Manuel/Bestiaire.md",
+    "JdR/Manuel/Fiche de personnage.md",
+    "JdR/Équipement/Armes blanches & càc.md",
+    "JdR/Équipement/Mitraillettes.md",
     "JdR/Manuel/Règles.md",
     "JdR/Manuel/Liste des compétences.md",
     "JdR/Équipement/Protections.md",
     "JdR/Équipement/Armes Diverses.md",
-    "JdR/Équipement/Armes blanches & càc.md",
     "JdR/Équipement/Fusils de précision.md",
     "JdR/Équipement/Magnums.md",
-    "JdR/Équipement/Mitraillettes.md",
     "JdR/Équipement/Fusils d'assaut.md",
     "JdR/Équipement/Fusils.md",
     "JdR/Équipement/Pistolets.md",
