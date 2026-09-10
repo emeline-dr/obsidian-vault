@@ -26,9 +26,6 @@
     background-color: var(--re-bg);
 }
 
-
-/* Texture très discrète */
-
 .markdown-preview-view::before {
     content: "";
     position: fixed;
@@ -154,12 +151,25 @@
     font-family: "JetBrains Mono", monospace;
 }
 
+/* Monstres */
+
 .callout[data-callout="monster"] {
-
     --callout-color: 180, 20, 20;
-
     --callout-icon: lucide-biohazard;
+    background: var(--re-bg-secondary);
+}
 
+.callout[data-callout="monster"] h1 {
+    margin-bottom: 35px;
+}
+
+.callout[data-callout="monster"] em,
+.callout[data-callout="monster"] strong {
+    color: var(--re-red)
+}
+
+.callout[data-callout="monster"] .callout-title {
+    display: none;
 }
 
 .callout[data-callout="monster"] hr::before,
@@ -169,8 +179,32 @@
 }
 
 .callout[data-callout="monster"] hr {
-    background: none !important;
-    background-image: none !important;
-    border: 0 !important;
-    border-top: 1px solid var(--re-border) !important;
+    background: none;
+    background-image: none;
+    border: 0;
+    border-top: 1px solid var(--re-red-light);
+}
+
+.callout[data-callout="monster"] table {
+    width: 100%;
+    border-collapse: collapse;
+    background: transparent;
+}
+
+.callout[data-callout="monster"] th,
+.callout[data-callout="monster"] td {
+    border: 1px solid var(--monster-border);
+    padding: 8px 10px;
+    background: transparent;
+}
+
+.callout[data-callout="monster"] th {
+    background: var(--re-red-dark);
+    color: var(--re-text);
+    letter-spacing: 1px;
+    font-family: Cascadia Code;
+}
+
+.callout[data-callout="monster"] tr:nth-child(even) td {
+    background: rgba(245, 245, 245, 0.005);
 }

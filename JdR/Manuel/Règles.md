@@ -23,7 +23,7 @@ S'il y a une *égalité*, les joueurs regardent celui qui a la meilleure statist
 
 Après que les initiatives aient été tirées, chaque personnage joue quand c'est son tour. Le déroulement de celui-ci dure "en RP" : 3 secondes et il est composé de diverses actions que le personnage peut effectuer.
 
-- **Se déplacer** : un personnage peut se déplacer de **AGI x 2**. Il est possible de se déplacer et de faire une autre action.
+- **Se déplacer** : un personnage peut se déplacer de **AGI x 2**, ce qui donne le résultat en mètre. Il est possible de se déplacer et de faire une autre action.
 - **Attaquer²** : au corps-à-corps ou à distance, le tour d'attaque est unique. Le personnage attaque une fois - ou plusieurs selon la cadence des armes.
 - **Utiliser un objet sur soi** : cette action est considérée comme une action bonus.
 - **Utiliser un objet sur une autre personne²**.
