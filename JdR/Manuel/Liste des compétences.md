@@ -22,11 +22,11 @@
 
 >[!rule] Combat
 
-- **Armurerie** (INT + NCT)
-	- La faculté d'améliorer et de réparer ses armes et protections.
-
 - **Artificier** (Situationnel : NCT + PER ou NCT + AGL)
 	- L'art de connaître les explosifs, de reconnaître leur mécanisme - ou de le deviner -, de les désamorcer ou... Tout simplement d'en créer.
+
+- **Artisanat** (INT + NCT)
+	- La faculté de créer, d'améliorer et de réparer...
 
 - **Électronique** (INT + NCT)
 	- La faculté de connaître et de comprendre tout appareil électronique rencontrés. Cela permet donc de les manipuler, de les modifier, etc.
