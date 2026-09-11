@@ -198,6 +198,14 @@
     background: transparent;
 }
 
+.callout[data-callout="monster"] th:nth-child(odd) {
+    background: var(--re-red);
+}
+
+.callout[data-callout="monster"] th:nth-child(even) {
+    background: var(--re-red-dark);
+}
+
 .callout[data-callout="monster"] th {
     background: var(--re-red-dark);
     color: var(--re-text);
@@ -206,5 +214,18 @@
 }
 
 .callout[data-callout="monster"] tr:nth-child(even) td {
-    background: rgba(245, 245, 245, 0.005);
+    background: rgba(245, 245, 245, 0.15);
+}
+
+.callout[data-callout="monster"] tr:nth-child(even) td:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+.callout[data-callout="monster"] td:nth-child(even) {
+    background: rgba(0, 0, 0, 0.25);
+}
+
+.callout[data-callout="monster"] .callout[data-callout="description"] {
+    background-color: var(--re-bg);
+    color: var(--re-text)
 }

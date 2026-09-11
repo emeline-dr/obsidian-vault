@@ -1,3 +1,4 @@
+
  >[!weapon] Remington M870
 
 ![[remington-m870.jpg|225]]
