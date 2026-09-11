@@ -4,6 +4,10 @@
 >  ![[zombie-Virus-t.webp]]
 >  
 > **INFECTÉ** — **MENACE ★☆☆☆☆**
+>>[!description] 
+>>Le *zombie issu du Virus-T* est un humain qui a été infecté. Cela peut être à partir d'ingestion d'eau contaminée, une morsure... En cas de morsure, il faut mourir pour ensuite avoir "la chance" de se transformer.
+>>
+>>Ils sont lents, peu réfléchis, faibles même... Un zombie seul n'est qu'un inconvénient. Une horde, par contre, pourra vous mettre des bâtons dans les roues.
 >
 > ---
 >
@@ -50,5 +54,27 @@
 > - **Tir à la tête** — Les dégâts à la tête sont particulièrement efficaces.
 > - **Sensible à l'acide et au feu** — Les dégâts de ce type feront plus de dégâts.
 
-
-
+> [!monster]
+> # ☣ LICKER
+>  ![[licker.jpg]]
+>  
+> **MUTATION DU VIRUS-T** — **MENACE ★★★☆☆**
+>
+>>[!description] 
+>>Le *Licker* est, comme le Crimson head, le résultat du **V-ACT**. La différence, ici, c'est qu'il n'y a plus rien d'humain dans cette créature. Elle marche à quatre pattes, son corps entier n'est constitué que de chair à vif, un cerveau proéminent se trouve au sommet du crâne. Les scientifiques l'ont nommé Licker à cause de cette longue langue, qu'il utilise à votre encontre.
+>>
+>>Si vous faites bien attention, vous remarquerez qu'ils sont aveugles... En contrepartie, le moindre bruit réveillera cette bête sauvage qui vous sautera dessus.
+>
+> ---
+>
+> | PV  | DÉPLACEMENT | INITIATIVE | ATTAQUE | DÉGÂTS |
+> | :---: | :---: | :---: | :---: | :---: |
+> | 34 | 10m | 1d6 - 5 | 8 ou - | 1d8 + 1 | 
+>
+> ---
+>
+> ### PARTICULARITÉS
+>
+> - **Coup de langue** — Sa langue a une portée de 4m où il peut toucher un ennemi ou l'agripper.
+> - **Tir à la tête** — Les dégâts à la tête sont particulièrement efficaces.
+> - **Sensible à l'acide et au feu** — Les dégâts de ce type feront plus de dégâts.
