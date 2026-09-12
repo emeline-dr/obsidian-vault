@@ -10,8 +10,6 @@
   "image-border-style",
   "relations",
   "obsidian-git",
-  "notebook-navigator",
-  "banners-reloaded",
-  "editing-toolbar",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-columns"
 ]

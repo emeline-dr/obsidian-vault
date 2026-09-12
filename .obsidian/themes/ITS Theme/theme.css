@@ -5444,6 +5444,7 @@ del,
   content: none;
   padding-left: 2px;
   color: var(--tag-text);
+  font-family: Cascadia Code;
 }
 
 body {

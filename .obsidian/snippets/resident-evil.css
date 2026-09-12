@@ -7,7 +7,7 @@
     --re-text-muted: #B8B8B8;
     --re-text-dark: #252525;
 
-    --re-red: #B51F2A;
+    --re-red: #b51f2a;
     --re-red-dark: #74151C;
     --re-red-light: #D13A44;
 
@@ -97,7 +97,6 @@
 
 .callout {
     background: var(--re-red-dark);
-    --callout-color: 181, 31, 42;
     border-width: 2px 4px;
     border-style: solid;
     border-color: var(--re-red-light);
@@ -105,7 +104,7 @@
 
 .callout-title {
     color: var(--re-text);
-    --callout-color: 181, 31, 42;
+    --callout-color: var(--re-text);
 }
 
 .callout strong,
@@ -151,10 +150,7 @@
     font-family: "JetBrains Mono", monospace;
 }
 
-/* Monstres */
-
 .callout[data-callout="monster"] {
-    --callout-color: 180, 20, 20;
     --callout-icon: lucide-biohazard;
     background: var(--re-bg-secondary);
 }
@@ -173,59 +169,114 @@
 }
 
 .callout[data-callout="monster"] hr::before,
-.callout[data-callout="monster"] hr::after {
+.callout[data-callout="monster"] hr::after,
+.callout[data-callout="character"] hr::before,
+.callout[data-callout="character"] hr::after {
     display: none !important;
     content: none !important;
 }
 
-.callout[data-callout="monster"] hr {
+.callout[data-callout="monster"] hr,
+.callout[data-callout="character"] hr {
     background: none;
     background-image: none;
     border: 0;
     border-top: 1px solid var(--re-red-light);
 }
 
-.callout[data-callout="monster"] table {
+.callout[data-callout="monster"] table,
+.callout[data-callout="character"] table {
     width: 100%;
     border-collapse: collapse;
     background: transparent;
 }
 
 .callout[data-callout="monster"] th,
-.callout[data-callout="monster"] td {
+.callout[data-callout="monster"] td,
+.callout[data-callout="character"] th,
+.callout[data-callout="character"] td {
     border: 1px solid var(--monster-border);
     padding: 8px 10px;
     background: transparent;
 }
 
-.callout[data-callout="monster"] th:nth-child(odd) {
+.callout[data-callout="monster"] th:nth-child(odd),
+.callout[data-callout="character"] th:nth-child(odd) {
     background: var(--re-red);
 }
 
-.callout[data-callout="monster"] th:nth-child(even) {
+.callout[data-callout="monster"] th:nth-child(even),
+.callout[data-callout="character"] th:nth-child(even) {
     background: var(--re-red-dark);
 }
 
-.callout[data-callout="monster"] th {
+.callout[data-callout="monster"] th,
+.callout[data-callout="character"] th {
     background: var(--re-red-dark);
     color: var(--re-text);
     letter-spacing: 1px;
     font-family: Cascadia Code;
 }
 
-.callout[data-callout="monster"] tr:nth-child(even) td {
+.callout[data-callout="monster"] tr:nth-child(even) td,
+.callout[data-callout="character"] tr:nth-child(even) td {
     background: rgba(245, 245, 245, 0.15);
 }
 
-.callout[data-callout="monster"] tr:nth-child(even) td:nth-child(even) {
+.callout[data-callout="monster"] tr:nth-child(even) td:nth-child(even),
+.callout[data-callout="character"] tr:nth-child(even) td:nth-child(even) {
     background-color: rgba(0, 0, 0, 0.15);
 }
 
-.callout[data-callout="monster"] td:nth-child(even) {
+.callout[data-callout="monster"] td:nth-child(even),
+.callout[data-callout="character"] td:nth-child(even) {
     background: rgba(0, 0, 0, 0.25);
 }
 
 .callout[data-callout="monster"] .callout[data-callout="description"] {
     background-color: var(--re-bg);
     color: var(--re-text)
+}
+
+.markdown-rendered .tag,
+.markdown-source-view.mod-cm6 .cm-hashtag {
+    color: var(--re-text) !important;
+    font-family: "Cascadia Code", monospace !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+
+.callout[data-callout="character"] {
+    --callout-icon: lucide-user;
+    background: var(--re-bg-secondary);
+}
+
+.callout[data-callout="character"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout="identity"] {
+    border: 0;
+    background: var(--re-border);
+}
+
+.callout[data-callout="identity"] .callout-title {
+    border-bottom: 1px solid var(--re-red-light);
+    padding-bottom: 10px;
+    font-size: 18px;
+    --callout-color: var(--re-text);
+}
+
+.callout[data-callout="identity"] strong {
+    color: var(--re-red-light)
+}
+
+.callout[data-callout="portrait"] {
+    background: transparent;
+    border: 0;
+}
+
+.callout[data-callout="portrait"] .callout-title {
+    display: none;
 }
