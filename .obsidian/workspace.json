@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "482fe153bc063d5b",
+        "id": "2f526f36033d82e8",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "``L'île aux supplices``/PNJ's/Elowen O'Neill.md",
+                "file": "JdR/Manuel/Créer un PNJ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elowen O'Neill"
+              "title": "Créer un PNJ"
             }
           }
         ]
@@ -191,13 +191,20 @@
   },
   "active": "2df82095775b8b91",
   "lastOpenFiles": [
-    "Templates/Personnage.md",
     "``L'île aux supplices``/PNJ's/Elowen O'Neill.md",
-    "JdR/Manuel/Bestiaire.md",
+    "JdR/Manuel/Créer un PNJ.md",
+    "``L'île aux supplices``/Organisations/Prometheus Biologics.md",
+    "``L'île aux supplices``/Organisations",
+    "JdR/Manuel/Fiche de personnage.md",
+    "JdR/Équipement/Protections.md",
+    "JdR/Équipement/Armes blanches & càc.md",
+    "JdR/Équipement/Armes Diverses.md",
     "JdR/Manuel/Règles.md",
+    "JdR/Manuel/Liste des compétences.md",
+    "Templates/Personnage.md",
+    "JdR/Manuel/Bestiaire.md",
     "Assets/Images/default.jpg",
     "JdR/Équipement/Fusils.md",
-    "JdR/Équipement/Armes blanches & càc.md",
     "JdR/Manuel/Artisanat.md",
     "``L'île aux supplices``/PNJ's/Casey O'Neill.md",
     "Assets/Images/Île aux supplices/Elowen-ONeill.png",
@@ -216,26 +223,20 @@
     "``L'île aux supplices``/PJ's",
     "``L'île aux supplices``/PNJ's",
     "``L'île aux supplices``",
-    "JdR/Manuel/Liste des compétences.md",
-    "JdR/Manuel/Fiche de personnage.md",
     "JdR/Équipement/Fusils d'assaut.md",
     "Assets/Images/Monstres/crimson-head.webp",
     "Assets/Images/Monstres/licker.jpg",
     "Assets/Images/Monstres/zombie-Virus-t.webp",
     "Assets/Images/Monstres",
     "JdR/Équipement/Mitraillettes.md",
-    "JdR/Équipement/Protections.md",
-    "JdR/Équipement/Armes Diverses.md",
     "JdR/Équipement/Fusils de précision.md",
     "JdR/Équipement/Magnums.md",
     "test.md",
     "Armement JDR RE.md",
     "Resident Evil - JDR/Armes/Fusils d'assaut",
     "Assets/Images/Armes/Armes blanches & càc",
-    "Assets/Images/Armes/Armes diverses",
     "Notes Anouk.md",
     "Fanfic/LiS.canvas",
-    "Univers/Biohazard World/Personnages/Leon S. Kennedy/Leon S. Kennedy.md",
-    "Univers/Biohazard World/Personnages/Jill Valentine/Jill Valentine.md"
+    "Univers/Biohazard World/Personnages/Leon S. Kennedy/Leon S. Kennedy.md"
   ]
 }

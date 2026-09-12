@@ -268,7 +268,8 @@
     --callout-color: var(--re-text);
 }
 
-.callout[data-callout="identity"] strong {
+.callout[data-callout="character"] strong,
+.callout[data-callout="character"] em {
     color: var(--re-red-light)
 }
 

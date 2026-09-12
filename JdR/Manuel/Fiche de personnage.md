@@ -1,3 +1,4 @@
+
 > [!rule] Identité
 
  Ce qui définit le personnage. Nous y retrouvons des informations de base telles que le *nom*, le *prénom*, l'*âge*,...
