@@ -1,1 +1,0 @@
-Se passe en 2018. (1 an après RE7)
