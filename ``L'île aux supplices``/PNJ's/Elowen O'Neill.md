@@ -6,7 +6,7 @@
 > >
 > > > [!col-md-2]
 > > > > [!identity] Identité
-> > > > - **Âge** 35 ans, née le 3 juin 1983.
+> > > > - **Âge** 39 ans, née le 3 juin 1979.
 > > > > - **Sexe** Femme cisgenre.
 > > > > - **Nationalité** Irlandaise.
 > > > > - **Emploi** Galériste.
@@ -53,7 +53,7 @@
 > 
 > - Née en Irlande à Kinsale, études en art, fille de Niallan et de Keeva. Son meilleur ami est Leonhard Kavanagh.
 > - Hérite de la galerie d'art de sa tante après sa mort.
-> - Emménage avec Casey en 2001.
+> - Emménage avec Casey en 1998.
 > - Elles vivent tranquillement jusqu'en 2003 où la chute des actions d'Umbrella mène à la dissolution du groupe — et l'interdiction d'exercer.
 > - Les débuts sont difficiles jusqu'à ce que sa femme soit recrutée par un nouveau groupuscule pharmaceutique : [[Prometheus Biologics]].
 > - En 2015, Casey lui apprend ce qu'elle fait depuis des années : sa femme a des remords. Elowen propose de l'aider, d'en parler aux autorités pour mettre en sécurité sa femme et elle-même.

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBiohazard",
+      "LiNotebookTabs",
       "LiImage",
       "LiPictureInPicture2",
-      "LiUser",
-      "LiArrowRight",
-      "📖"
+      "LiUser"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,8 +36,6 @@
   },
   "Armement JDR RE.md": "LiArrowRight",
   "Compétences JDR Resident Evil.md": "LiArrowRight",
-  "JdR/Manuel": "📖",
-  "JdR/Équipement": "🔫",
   "JdR/Manuel/Artisanat.md": "LiArrowRight",
   "JdR/Manuel/Fiche de personnage.md": "LiArrowRight",
   "JdR/Manuel/Liste des compétences.md": "LiArrowRight",
@@ -51,7 +49,6 @@
   "JdR/Équipement/Mitraillettes.md": "LiArrowRight",
   "JdR/Équipement/Pistolets.md": "LiArrowRight",
   "JdR/Équipement/Protections.md": "LiArrowRight",
-  "JdR/Manuel/Bestiaire.md": "LiArrowRight",
   "``L'île aux supplices``/PNJ's/Casey O'Neill.md": "LiUser",
   "``L'île aux supplices``/PNJ's/Arthur Cavendish.md": "LiUser",
   "Assets/Images/Île aux supplices/Arthur-Cavendish.png": "LiImage",
@@ -89,5 +86,13 @@
   "``L'île aux supplices``/PNJ's/Elowen O'Neill.md": "LiUser",
   "Assets/Images/default.jpg": "LiImage",
   "Templates/Personnage.md": "LiArrowRight",
-  "``L'île aux supplices``/Organisations/Prometheus Biologics.md": "LiArrowRight"
+  "``L'île aux supplices``/Organisations/Prometheus Biologics.md": "LiArrowRight",
+  "JdR/Manuel/Créer un PNJ.md": "LiArrowRight",
+  "Templates/Monstre.md": "LiArrowRight",
+  "JdR/Bestiaire/Zombie Virus-T.md": "LiBiohazard",
+  "JdR/Bestiaire/Crimson Head.md": "LiBiohazard",
+  "JdR/Bestiaire/Licker.md": "LiBiohazard",
+  "JdR/Bestiaire/Niké.md": "LiBiohazard",
+  "Assets/Images/Monstres/Nike-1.png": "LiImage",
+  "Assets/Images/Monstres/Nike-2.png": "LiImage"
 }
