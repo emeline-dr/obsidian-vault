@@ -1,4 +1,4 @@
 - **Temporalité :** Le 1e juillet 2018.
-- **Lieu :**
+- **Lieu :** Île Caucase, en Méditerranée.
 - **But de la campagne :** Survivre et s'échapper de l'île en vie.
 - **Pourquoi eux ?** Sans raison — ou à improviser selon le lore des personnages.
