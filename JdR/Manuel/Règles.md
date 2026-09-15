@@ -1,4 +1,19 @@
 
+>[!rule] Revente & démantèlement
+
+Lorsqu'une arme ou une protection ne vous convient pas, il est possible de *la revendre* au Marchand ou de *la démanteler*. Les règles sont simples pour les deux options.
+
+- Lors d'une **revente**, le Marchand reprendra toutes armes au moitié de sa valeur pour les joueurs. Si le chiffre est à virgule, ce sera arrondi à l'unité inférieure. Ainsi, si vous souhaitez revendre le Stingray dont la valeur est de *7 Spinelles*, le Marchand vous l'échangera pour *3 Spinelles*.
+
+- Lors d'un **démantèlement**, vous recevrez une petite quantité de *Ferraille P ou G* pour les armes et protections ou de *pot(s) de poudre noire* pour les munitions. 
+	- **ATTENTION !** Le démantèlement est régi par les mêmes règles — et contraintes — que l'Artisanat.
+		- **Pour les armes et protection,** la quantité reçue va de 1 — pour les petites armes — à 2 — pour les armes plus grosses —.
+		- **Pour les munitions,** elle est déterminée par le nombre de "lots" de munitions. `Par exemple`, James veut démanteler des munitions de fusil-mitrailleur. Il doit en démanteler 5 pour recevoir 1 pot de poudre noire. Il en démantèle 10 et reçoit donc 2 pots de poudre noire.
+
+Les objets qui ne sont pas des armes, ni de protections, ne valent rien *sauf si* ce sont des objets de quêtes ou que le MJ spécifie qu'ils ont une valeur — aux joueurs alors de le noter. 
+
+Le reste, le Marchand n'en voudra pas. Tout comme dans le jeu, ce genre d'objets ne sert qu'à être utilisé puis jeter.
+
 >[!rule] Jet de résolution
 
 
