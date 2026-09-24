@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8a1d3802afb23c",
+        "id": "0e3584892aa5aedc",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6918a9e3c5d745",
+            "id": "a1b478d3840c0a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,13 +189,20 @@
       "obsidian-importer:Importer des notes": false
     }
   },
-  "active": "4d6918a9e3c5d745",
+  "active": "a1b478d3840c0a25",
   "lastOpenFiles": [
-    "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
+    "JdR/Bestiaire/Nanabozho.md",
+    "JdR/Bestiaire/Zombie Virus-T.md",
+    "JdR/Bestiaire/Niké.md",
+    "JdR/Bestiaire/Licker.md",
+    "JdR/Bestiaire/Crimson Head.md",
+    "JdR/Bestiaire/Chien Zombie.md",
+    "Sans titre.base",
+    "Assets/Images/Monstres/Nanabozho.png",
     "``Le Feu moderne``/Scénario/Session 1.md",
+    "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
     "Assets/Images/Le Feu moderne/Lieux/NISOS-KAFKASOS.png",
     "JdR/Manuel/Règles.md",
-    "JdR/Bestiaire/Chien Zombie.md",
     "JdR/Manuel/Fiche de personnage.md",
     "``Le Feu moderne``/PNJ's/Elowen O'Neill.md",
     "JdR/Équipement/Armes blanches & càc.md",
@@ -203,11 +210,7 @@
     "``Le Feu moderne``/PNJ's/William.md",
     "``Le Feu moderne``/Scénario/Prise de notes.md",
     "JdR/Manuel/Artisanat.md",
-    "JdR/Bestiaire/Zombie Virus-T.md",
-    "JdR/Bestiaire/Crimson Head.md",
-    "JdR/Bestiaire/Licker.md",
     "Assets/Images/Monstres/zombie-dog.webp",
-    "JdR/Bestiaire/Niké.md",
     "``Le Feu moderne``/PNJ's/Arthur Cavendish.md",
     "``Le Feu moderne``/PNJ's/Casey O'Neill.md",
     "Assets/Images/Le Feu moderne/PNJ's",
@@ -222,7 +225,6 @@
     "``Le Feu moderne``/Organisations/Prometheus Biologics.md",
     "Assets/Images/Monstres/Nike-1.png",
     "Assets/Images/Monstres/Nike-2.png",
-    "JdR/Manuel/Bestiaire.md",
     "JdR/Bestiaire",
     "``Le Feu moderne``/Organisations",
     "Assets/Images/default.jpg",
@@ -231,11 +233,9 @@
     "Assets/Images/Le Feu moderne/PNJ's/Arthur-Cavendish.png",
     "Assets/Images/Armes/Fusils/benelli.png",
     "Templates",
-    "Assets/Images/Armes/Armes diverses/atm4.png",
     "Assets/Images/Le Feu moderne",
     "``Le Feu moderne``/Scénario",
     "``Le Feu moderne``/PJ's",
-    "``Le Feu moderne``/PNJ's",
     "Fanfic/LiS.canvas"
   ]
 }

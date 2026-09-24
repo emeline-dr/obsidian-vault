@@ -99,5 +99,8 @@
   "Assets/Images/Le Feu moderne/PNJ's/Elowen-ONeill.png": "LiImage",
   "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md": "LiMapPin",
   "JdR/Bestiaire/Chien Zombie.md": "LiBiohazard",
-  "Assets/Images/Le Feu moderne/Lieux/NISOS-KAFKASOS.png": "LiImage"
+  "Assets/Images/Le Feu moderne/Lieux/NISOS-KAFKASOS.png": "LiImage",
+  "Assets/Images/Monstres/Nanabozho.png": "LiImage",
+  "Assets/Images/Monstres/zombie-dog.webp": "LiImage",
+  "JdR/Bestiaire/Nanabozho.md": "LiBiohazard"
 }
