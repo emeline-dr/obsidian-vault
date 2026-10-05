@@ -21,7 +21,7 @@ La TV, si on l'allume, ne montre rien.
 - **331** - Dans cette chambre, si le PJ va dans la salle de bain et qu'il vide la baignoire, il trouvera *1 herbe verte*.
 - **332** - Il n'y a rien.
 - **333** - Il n'y a rien.
-- **334** - La porte est verrouillée. Si les PJ's cherchent et trouvent la clé magnétique 304, ils trouveront *2 trousses de soins* et *2 x 5 munitions de pistolet*.
+- **334** - La porte est verrouillée. Si les PJ's cherchent et trouvent la clé magnétique 334, ils trouveront *2 trousses de soins* et *2 x 5 munitions de pistolet*.
 - **335** - Il n'y a rien.
 - **336** - Dans cette chambre, il y a une *lampe torche* déposée sur le meuble devant la TV avec *deux crochets*.
 - **337** - Dans cette chambre, il y a un *M92F* chargé avec 5 balles, il est posé sur l'oreiller dans une mallette avec un papier où il est inscrit : "**Faites en bon usage.**". Une pour chaque personne présente à cet étage.
@@ -29,7 +29,7 @@ La TV, si on l'allume, ne montre rien.
 - **339** - Dans cette chambre, il y a un *couteau de combat* posé sur la table de chevet avec l'inscription : *Prometheus* sur la lame.
 - **340** - Il n'y a rien.
 
-### William ou le premier zombie
+### William Lacroix ou le premier zombie
 - Si William est en chambre 337, au bout d'un moment, les PJ's entendront une détonation. Il vient de se tirer une balle dans la tête — *le M92F n'a donc plus que 4 balles* —. Il a un papier dans son autre main : "**Mourir est votre seule solution. Surtout, visez bien votre tête. Et encore...**"
 
 - S'il n'est pas dans la chambre 337, il finira par sortir en panique de sa chambre en entendant les gens. Si l'une des personnes a l'arme, il suppliera cette personne de le tuer et d'en faire de même. Il va tenter de forcer la personne à le tuer en prenant l'arme et en pressant la gâchette. (*le PJ fait un test de FOR x2 s'il l'en empêche*)

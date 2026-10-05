@@ -5,7 +5,7 @@
 >  
 > **ARME BIOLOGIQUE** — **MENACE ★★★★★**
 >>[!description] 
->>Niké, déesse de la Victoire, nommée ainsi par sa créatrice car, à partir d'une amibe mangeuse de cerveau, elle avait créé un remède à des maladies que l'on disait incurable. Maintenant, Niké est un être solitaire, pleurant sur l'île, geignant... Ses ailes sont lourdes, elles lui font mal...
+>>*Niké*, déesse de la Victoire, nommée ainsi par sa créatrice car, à partir d'une amibe mangeuse de cerveau, elle avait créé un remède à des maladies que l'on disait incurable. Maintenant, Niké est un être solitaire, pleurant sur l'île, geignant... Ses ailes sont lourdes, elles lui font mal...
 >>
 >>Oui, elle est dangereuse. Oui, vous aurez du mal à la combattre... Mais faut-il combattre celle qui n'a jamais voulu devenir ainsi ?
 >>

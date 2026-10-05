@@ -5,7 +5,7 @@
 >  
 > **INFECTÉ** — **MENACE ★☆☆☆☆**
 >>[!description] 
->>À ne pas confondre avec le Cerberus, le Chien Zombie est un des nombreux êtres canins touchés par le Virus-T. Ils ont été infectés suite à la consommation de chair infectée ou tout autre aliment — ou même l'eau — infecté.
+>>À ne pas confondre avec le Cerberus, le *Chien Zombie* est un des nombreux êtres canins touchés par le Virus-T. Ils ont été infectés suite à la consommation de chair infectée ou tout autre aliment — ou même l'eau — infecté.
 >>
 >>Rapide, ils ont des caractéristiques et des comportements différents selon la race à laquelle ils appartiennent.
 >>
