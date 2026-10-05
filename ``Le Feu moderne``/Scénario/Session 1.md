@@ -1,6 +1,5 @@
 - INFO : la bibliothécaire est une fan de théorie du complot
-- 
-- 
+ 
 - Au début, les joueurs tirent chacun 1 papier (les papiers vont de 335 à 340), ça détermine dans quelle chambre ils se réveillent.
 	- Si aucun ne tire la 337, William s'y réveille.
 	- Si quelqu'un tire la 337, il est dans celle qui reste.
@@ -10,7 +9,7 @@
 
 *À votre réveil, vous êtes dans une chambre. Le corps encore un peu fatigué, la bouche pâteuse… Vous percevez le bruit des vagues au milieu d'un silence surnaturel. L'air salin emplit vos narines. En vous relevant, vous sentez que votre cou est lourd, il vous fait mal. Vous le touchez pour vous rendre compte de ce collier de métal. Il est collé contre votre peau et si vous essayez de le bouger, vous ressentez une douleur dans votre nuque : quelque chose s'enfonce dans votre peau et retirer ce collier pourrait être fatal.*"
 
-Les joueurs qui observent la pièce : Un jet de **PER x2**. Description des chambres et, s'il y a des réussites, ceux-là ont remarqué, dans certains coins du plafond, des caméras cachées en trompe-l'œil, en jouant avec l'obscurité des coins.
+Les joueurs qui observent la pièce : Un jet de **PER x2**. Description des chambres et, s'il y a des réussites, ceux-là ont remarqué, dans certains coins du plafond, des caméras cachées en trompe-l'œil, en jouant avec l'obscurité des coins. Selon la réussite, ils voient aussi les boîtiers à l'entrée de la chambre.
 
 ![[Hôtel-Session-1.png]]
 
@@ -39,5 +38,15 @@ La TV, si on l'allume, ne montre rien.
 ***Dans tous les cas***, à partir du moment où le groupe le voit mort, je lance un compteur de 10 secondes. Après les 10 secondes, ils entendent un grognement. William se relève. Ceci est le premier indice pour le Virus-T Prometheus : il peut être latent et ils sont tous contaminés, il s'activera lors de la mort, même naturelle.
 
 ### Les ascenseurs
+S'ils prennent l'ascenseur, il y a des boutons jusqu'à l'étage 10. Mais ils ne sont allumés que du rez-de-chaussée au 3e étage — là où ils sont. S'ils tentent d'appuyer sur les autres, l'ascenseur fermera les portes, ils entendront le mécanisme se mettre en marche puis il se stoppe et les portes se rouvrent. Les autres étages ne sont pas accessibles.
+
+### Le complexe hôtelier
+Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *6 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
+
+- *Si demande de test de PER + test Réussi* - le PJ remarque qu'ils ont tous un âge différent, le 0 est le plus ancien.
+
+Le 3, d'où ils sortent, est toujours en chantier. Après le 3e étage, il n'y a que des échafaudages. Le 4, 5 et 6, ce sont les fondations qui sont en train d'être coulées.
+
+Le complexe n'a pas des airs de fin du monde. Tout tient sur ses fondations. La seule chose, c'est la présence de la Nature qui reprend de plus en plus ses droits.
 
 ### La radio militaire
