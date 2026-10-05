@@ -1,13 +1,18 @@
+- INFO : la bibliothécaire est une fan de théorie du complot
+- 
+- 
 - Au début, les joueurs tirent chacun 1 papier (les papiers vont de 335 à 340), ça détermine dans quelle chambre ils se réveillent.
 	- Si aucun ne tire la 337, William s'y réveille.
-	- Si quelqu'un tire la 337, je pioche moi-même un des papiers pour déterminer là où William se réveille.
+	- Si quelqu'un tire la 337, il est dans celle qui reste.
 
 ### Introduction
-"*Vous étiez chez vous ou ailleurs. Peut-être sur la route ou au travail. Vous faisiez votre vie. Vous aviez peut-être des problèmes ou non, il se peut que votre vie soit des plus monotones et tranquilles. Dans tous les cas, ce soir-là, vous vous êtes senti très fatigué. Votre corps était lourd, endolori comme si vous veniez de passer une journée à courir. Vos yeux se sont fermés puis rouverts, vous avez clignés$ des paupières avant de les fermer.*
+"*Vous étiez chez vous ou ailleurs. Peut-être sur la route ou au travail. Vous faisiez votre vie. Vous aviez peut-être des problèmes ou non, il se peut que votre vie soit des plus monotones et tranquilles. Dans tous les cas, ce soir-là, vous vous êtes senti très fatigué. Votre corps était lourd, endolori comme si vous veniez de passer une journée à courir. Vos yeux se sont fermés puis rouverts, vous avez clignés des paupières avant de les fermer.*
 
 *À votre réveil, vous êtes dans une chambre. Le corps encore un peu fatigué, la bouche pâteuse… Vous percevez le bruit des vagues au milieu d'un silence surnaturel. L'air salin emplit vos narines. En vous relevant, vous sentez que votre cou est lourd, il vous fait mal. Vous le touchez pour vous rendre compte de ce collier de métal. Il est collé contre votre peau et si vous essayez de le bouger, vous ressentez une douleur dans votre nuque : quelque chose s'enfonce dans votre peau et retirer ce collier pourrait être fatal.*"
 
-Quand ils se réveillent, ils doivent tous faire un jet de **PER x2**. Description des chambres et, s'il y a des réussites, ceux-là ont remarqué, dans certains coins du plafond, des caméras cachées en trompe-l'œil, en jouant avec l'obscurité des coins.
+Les joueurs qui observent la pièce : Un jet de **PER x2**. Description des chambres et, s'il y a des réussites, ceux-là ont remarqué, dans certains coins du plafond, des caméras cachées en trompe-l'œil, en jouant avec l'obscurité des coins.
+
+![[Hôtel-Session-1.png]]
 
 ### Les chambres
 Toutes les chambres sont aménagées comme le sont celles d'un hôtel : un lit, des tables de chevet, une commode avec une TV, une télécommande et même un programme télé de la semaine d'où arrivent les occupants (*ainsi, dans la chambre 121, le magazine date de 2015, la semaine où Elowen a été enlevée*), une salle de bain avec baignoire, évier, toilettes et une terrasse qui donne vers la plage et la mer. À l'entrée, il y a un petit bloc avec une carte insérée, qui est la carte de la chambre. En la retirant, le courant se coupe dans la chambre. Si les PJ's sortent, sans la prendre, ils ne peuvent plus revenir.
@@ -34,6 +39,5 @@ La TV, si on l'allume, ne montre rien.
 ***Dans tous les cas***, à partir du moment où le groupe le voit mort, je lance un compteur de 10 secondes. Après les 10 secondes, ils entendent un grognement. William se relève. Ceci est le premier indice pour le Virus-T Prometheus : il peut être latent et ils sont tous contaminés, il s'activera lors de la mort, même naturelle.
 
 ### Les ascenseurs
-
 
 ### La radio militaire
