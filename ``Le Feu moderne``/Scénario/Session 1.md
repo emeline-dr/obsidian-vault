@@ -40,6 +40,9 @@ La TV, si on l'allume, ne montre rien.
 ### Les ascenseurs
 S'ils prennent l'ascenseur, il y a des boutons jusqu'à l'étage 10. Mais ils ne sont allumés que du rez-de-chaussée au 3e étage — là où ils sont. S'ils tentent d'appuyer sur les autres, l'ascenseur fermera les portes, ils entendront le mécanisme se mettre en marche puis il se stoppe et les portes se rouvrent. Les autres étages ne sont pas accessibles.
 
+### Les escaliers
+
+
 ### Le complexe hôtelier
 Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *6 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
 
