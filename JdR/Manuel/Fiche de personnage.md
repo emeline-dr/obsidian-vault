@@ -4,8 +4,6 @@
  Ce qui définit le personnage. Nous y retrouvons des informations de base telles que le *nom*, le *prénom*, l'*âge*,...
  
  Elles permettent de se faire une image globale avant d'en venir à la partie technique.
- 
- L'*apparence*, le *caractère* et les *notes* sont des ajouts, offrant la possibilité aux PJ's de décrire leur personnage de la façon qu'ils le ressentent et le voient.
 <br>
 
 > [!rule] Caractéristiques
@@ -20,6 +18,26 @@
 - **Intelligence** (INT) - toutes les connaissances d'une personne définissent son intelligence, quelqu'un avec beaucoup de culture est intelligent, mais ça ne veut pas tout dire de lui...
 - **Instinct** (NCT) - l'instinct représente la capacité du personnage à percevoir intuitivement un danger, une opportunité ou une anomalie.
 - **Perception** (PER) - sa faculté à remarquer des détails, à voir ce qui est difficile à percevoir...
+
+- **Déplacement** - c'est la distance que peut faire, à son tour, le personnage. Elle est calculée grâce à **AGI x 2**.
+- **Stress** - ce sera abordé dans la section suivante.
+
+<br>
+>[!rule] Stress & Troubles
+
+Le **Stress** est une jauge, pleine, au début de l'aventure des personnages. Elle est calculée par rapport au Sang-Froid : **SNG x 2**. Ainsi, un personnage ayant *3 de Sang-Froid* commencera l'aventure avec *6 / 6*. Quand vous achetez cette caractéristique, plus tard, elle augmentera de façon rétroactive.
+
+Lorsque le personnage est touché par un évènement stressant — tuer une personne pour la première fois, voir un zombie, ... —, il sera demandé de faire un *jet de Sang-Froid* pour voir comment il arrive à faire face et s'il perd du **stress** ou pas. 
+
+**Attention**, réussir un jet ne veut pas forcément dire que vous ne perdrez pas de stress. Tout simplement, vous en perdrez moins que prévu.
+
+Selon votre *maximum de Stress*, vous recevrez un **Trouble** en atteignant un certain seuil.
+
+- **Maximum de 2** - le personnage obtient **un trouble** dès qu'il *perd 1 point de Stress*.
+- **Maximum de 3 / 4** - le personnage obtient **un trouble** en tombant à *3*, à *1* et à *0*.
+- **Maximum de 5 / 6** - le personnage obtient **un trouble** en tombant à *4*, à *2* et à *0*.
+- **Maximum de 7 / 8 / 9 / 10** - le personnage obtient **un trouble** en tombant à *6*, à *3* et à *0*.
+- **Maximum de 11 / 12** - le personnage obtient **un trouble** en tombant à *8*, à *4* et à *0*.
 
 <br>
 
