@@ -41,7 +41,7 @@ La TV, si on l'allume, ne montre rien.
 S'ils prennent l'ascenseur, il y a des boutons jusqu'à l'étage 10. Mais ils ne sont allumés que du rez-de-chaussée au 3e étage — là où ils sont. S'ils tentent d'appuyer sur les autres, l'ascenseur fermera les portes, ils entendront le mécanisme se mettre en marche puis il se stoppe et les portes se rouvrent. Les autres étages ne sont pas accessibles.
 
 ### Les escaliers
-
+Ils permettent de monter et de descendre sans problème. Ils sont récents dans leur construction.
 
 ### Le complexe hôtelier
 Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *6 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
@@ -52,4 +52,7 @@ Le 3, d'où ils sortent, est toujours en chantier. Après le 3e étage, il n'y a
 
 Le complexe n'a pas des airs de fin du monde. Tout tient sur ses fondations. La seule chose, c'est la présence de la Nature qui reprend de plus en plus ses droits.
 
-### La radio militaire
+## Le militaire décédé
+Devant leur hôtel, il y a un *militaire* mort. Pas de drapeau sur uniforme.
+
+#### La radio militaire
