@@ -31,13 +31,9 @@ Lorsque le personnage est touché par un évènement stressant — tuer une pers
 
 **Attention**, réussir un jet ne veut pas forcément dire que vous ne perdrez pas de stress. Tout simplement, vous en perdrez moins que prévu.
 
-Selon votre *maximum de Stress*, vous recevrez un **Trouble** en atteignant un certain seuil.
+Le maximum de *troubles* est de **3** qu'importe votre maximum de Stress. Votre personnage gagne un trouble lorsqu'il tombe à 0. Après que ça soit tombé à 0, la jauge se remplit à nouveau.
 
-- **Maximum de 2** - le personnage obtient **un trouble** dès qu'il *perd 1 point de Stress*.
-- **Maximum de 3 / 4** - le personnage obtient **un trouble** en tombant à *3*, à *1* et à *0*.
-- **Maximum de 5 / 6** - le personnage obtient **un trouble** en tombant à *4*, à *2* et à *0*.
-- **Maximum de 7 / 8 / 9 / 10** - le personnage obtient **un trouble** en tombant à *6*, à *3* et à *0*.
-- **Maximum de 11 / 12** - le personnage obtient **un trouble** en tombant à *8*, à *4* et à *0*.
+Lorsque votre personnage a déjà 3 troubles et retombe à 0, il est considéré comme **brisé**. C'est une **mort psychologique**.
 
 <br>
 

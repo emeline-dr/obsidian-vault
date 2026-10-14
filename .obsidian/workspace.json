@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "``Le Feu moderne``/Scénario/Session 1.md",
-                "mode": "preview",
+                "file": "JdR/Manuel/Fiche de personnage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Fiche de personnage"
             }
           }
         ]
@@ -191,10 +191,10 @@
   },
   "active": "a1b478d3840c0a25",
   "lastOpenFiles": [
-    "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
-    "``Le Feu moderne``/Scénario/Session 1.md",
-    "JdR/Manuel/Fiche de personnage.md",
     "JdR/Manuel/Règles.md",
+    "``Le Feu moderne``/Scénario/Session 1.md",
+    "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
+    "JdR/Manuel/Fiche de personnage.md",
     "JdR/Manuel/Créer un PNJ.md",
     "JdR/Bestiaire/Chien Zombie.md",
     "JdR/Bestiaire/Crimson Head.md",
