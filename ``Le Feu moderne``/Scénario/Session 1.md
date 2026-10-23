@@ -55,6 +55,6 @@ Le complexe n'a pas des airs de fin du monde. Tout tient sur ses fondations. La 
 ## Le militaire décédé
 Devant leur hôtel, il y a un *militaire* mort. Pas de drapeau sur uniforme. Il y a son nom avec ses bandelettes : Caporal Russel.
 
-Il a sur lui un *Samurai Edge*, avec *3 munitions de pistolet*, un *gilet léger* et des *protège-bras* qui peuvent être pris sur lui. Il a aussi une *radio militaire* à 6 canaux.
+Il a sur lui un *Samurai Edge*, avec *3 munitions de pistolet*, un *gilet léger* et des *protège bras* qui peuvent être pris sur lui. Il a aussi une *radio militaire* à 6 canaux.
 
 #### La radio militaire
