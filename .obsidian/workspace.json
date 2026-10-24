@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "``Le Feu moderne``/Scénario/Session 1.md",
+                "file": "JdR/Manuel/Règles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Règles"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JdR/Équipement/Protections.md",
+                "file": "JdR/Manuel/Liste des compétences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protections"
+              "title": "Liste des compétences"
             }
           }
         ]
@@ -205,15 +205,17 @@
   },
   "active": "a1b478d3840c0a25",
   "lastOpenFiles": [
+    "JdR/Manuel/Liste des compétences.md",
     "JdR/Équipement/Protections.md",
+    "JdR/Manuel/Règles.md",
+    "Sans titre.md",
+    "JdR/Manuel/Fiche de personnage.md",
+    "JdR/Manuel/Créer un PNJ.md",
     "``Le Feu moderne``/Scénario/Session 1.md",
     "JdR/Équipement/Pistolets.md",
     "JdR/Équipement/Magnums.md",
     "JdR/Équipement/Fusils.md",
     "JdR/Équipement/Fusils d'assaut.md",
-    "JdR/Manuel/Créer un PNJ.md",
-    "JdR/Manuel/Fiche de personnage.md",
-    "JdR/Manuel/Règles.md",
     "``Le Feu moderne``/Organisations/Prometheus Biologics.md",
     "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
     "JdR/Bestiaire/Chien Zombie.md",
@@ -235,9 +237,7 @@
     "JdR/Manuel/Artisanat.md",
     "Assets/Images/Monstres/zombie-dog.webp",
     "Assets/Images/Le Feu moderne/PNJ's",
-    "``L'île aux supplices``/Sans titre.md",
     "Assets/Images/Le Feu moderne/Lieux",
-    "Assets/Images/Sans titre.md",
     "``Le Feu moderne``/Lieux",
     "Assets/Images/Monstres/Nike-1.png",
     "Assets/Images/Monstres/Nike-2.png",

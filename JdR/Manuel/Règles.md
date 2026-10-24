@@ -16,28 +16,41 @@ Le reste, le Marchand n'en voudra pas. Tout comme dans le jeu, ce genre d'objets
 
 >[!rule] Jet de résolution
 
+Pour jouer, il faut **2d6** de couleurs différentes. Une couleur sera la représentation du *bien*, il sera nommé **le dé Vaccin**. L'autre sera la représentation du *mal*, il sera nommé **le dé Virus**.
 
 Pour résoudre une action, il faut lancer **2d6**. Le résultat doit être égal ou inférieur à limite déterminée par les caractéristiques. Chaque action en demande *deux* - AGI + FOR, PER + INT, ... - ou s'il n'y en a qu'une, il faut faire x2. À ce nombre, il faut ajouter le bonus - *ou malus* - de compétence associée, s'il y en a une. Selon la marge de réussite ou d'échec, le MJ a le droit de décider de l'ampleur de l'un ou de l'autre.
 
-Par exemple, James doit faire un jet d'investigation pour se rendre compte de certains détails dans la zone. Il prend sa caractéristique PER qui est de 3, il fait x2. Il ne maîtrise pas la compétence Investigation, ce qui fait : -1. Ses 2d6 doivent faire 5 ou -.
+Par exemple, James doit faire un jet d'investigation pour trouver des informations dans des dossiers. Il prend sa caractéristique PER qui est de 3, il fait x2. Il ne maîtrise pas la compétence Investigation, ce qui fait : -1. Ses 2d6 doivent faire 5 ou -.
 
 Un **double 1** est une réussite critique et un **double 6** est un échec critique. Lors de l'échec critique en utilisant une arme quelconque, le MJ peut décider de rendre l'arme inefficace jusqu'à réparation.
+
+La résolution de l'action, malheureusement, peut être *vérolée* ou *soignée*. Cela veut dire qu'une action **réussie** dont le résultat le plus bas, est le *dé Virus*, aura tout de même une conséquence négative. L'inverse est vraie aussi, une action **ratée** dont le résultat le plus bas, est le *dé Vaccin*, aura une conséquence positive.
+
+En cas d'égalité des deux dés, si c'est **égal ou sous le seuil de réussite**, c'est considéré comme un *dé Vaccin*. Si c'est **supérieur au seuil de réussite**, c'est considéré comme un *dé Virus*.
+
+Par exemple, James a fait son jet d'investigation. Il fait 3. Son action est réussie. Mais son résultat le plus bas, est le 1 du dé Virus. Dans ce cas, il réussit à trouver ce qu'il voulait mais, en cherchant, il a activé une alarme silencieuse. Les gardes sont prévenus.
 
 
 ## Combat
 
 >[!rule] Initiative
 
-L'initiative détermine l'ordre dans lequel les ennemis et les PJ's agir. Une formule simple est utilisée pour la calculer : **1D6 - AGI**.
+L'*initiative* est déterminée par rapport au contexte du conflit. Ainsi, si les PJ's sont pris au dépourvu, le tour sera accordé aux monstres. À l'inverse, s'ils surprennent leurs ennemis, ils auront la main dès le début de l'affrontement.
 
-Celui qui a le plus petit résultat (même négatif) agit en premier et ainsi de suite, jusqu'à celui ayant le plus haut chiffre.
+La main passe à l'autre camp suivant certaines règles.
+<br>
+>[!rule] Changement de main
 
-S'il y a une *égalité*, les joueurs regardent celui qui a la meilleure statistique d'**AGI** puis de **PER**. Si c'est toujours un ex-aequo, ils doivent relancer **1d6** seul jusqu'à être départagés.
+Lors d'un combat, le changement est déterminé par les *dés Virus et Vaccin*. Si le personnage a le plus petit résultat sur son *dé Virus*, son tour s'achève et c'est à son adversaire d'agir. Par contre, qu'il réussisse ou rate son jet, si le plus petit résultat est sur son *dé Vaccin*, il peut finir son tour et c'est au tour d'un autre personnage de son équipe ou de lui-même.
+
+En cas d'égalité des deux dés, si c'est **égal ou sous le seuil de réussite**, c'est considéré comme un *dé Vaccin*. Si c'est **supérieur au seuil de réussite**, c'est considéré comme un *dé Virus*.
+
+**Attention !** Si un personnage recharge lors de son tour, la main sera automatiquement passée à l'ennemi.
 <br>
 
 >[!rule] Déroulement d'un combat
 
-Après que les initiatives aient été tirées, chaque personnage joue quand c'est son tour. Le déroulement de celui-ci dure "en RP" : 3 secondes et il est composé de diverses actions que le personnage peut effectuer.
+Lors de leur tour, les PJ's peuvent choisir qui va agir tant qu'ils gardent le main. Un même personnage peut agir par deux fois.
 
 - **Se déplacer** : un personnage peut se déplacer de **AGI x 2**, ce qui donne le résultat en mètre. Il est possible de se déplacer et de faire une autre action.
 	- Dans ce JdR, *1 case = 1m*.
