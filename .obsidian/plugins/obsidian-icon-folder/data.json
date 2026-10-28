@@ -105,13 +105,17 @@
   "JdR/Bestiaire/Nanabozho.md": "LiBiohazard",
   "Assets/Images/Hôtel-Session-1.png": "LiImage",
   "``Le Feu moderne``/PNJ's/Delta 4/Cpl. John Russel DEAD.md": "LiUser",
-  "``Le Feu moderne``/PNJ's/Delta 4/Sans titre 1.md": "LiUser",
-  "``Le Feu moderne``/PNJ's/Delta 4/Sans titre 2.md": "LiUser",
-  "``Le Feu moderne``/PNJ's/Delta 4/Sans titre 3.md": "LiUser",
   "Assets/Images/Le Feu moderne/PNJ's/Bradley Smith.png": "LiImage",
   "Assets/Images/Le Feu moderne/PNJ's/Delta-4.png": "LiImage",
   "Assets/Images/Le Feu moderne/PNJ's/Jorge Marquez.png": "LiImage",
   "Assets/Images/Le Feu moderne/PNJ's/Luisa Ruiz.png": "LiImage",
   "Assets/Images/Le Feu moderne/PNJ's/Sergeï Ivanov.png": "LiImage",
-  "``Le Feu moderne``/PNJ's/Delta 4/Lt. Luisa Ruiz.md": "LiUser"
+  "``Le Feu moderne``/PNJ's/Delta 4/Lt. Luisa Ruiz.md": "LiUser",
+  "``Le Feu moderne``/PNJ's/Delta 4/Op. Sr. Sergeï Ivanov.md": "LiUser",
+  "``Le Feu moderne``/PNJ's/Delta 4/Sgt-Chef Bradley Smith.md": "LiUser",
+  "``Le Feu moderne``/PNJ's/Delta 4/Op. Sr. Jorge Marquez.md": "LiUser",
+  "``Le Feu moderne``/PNJ's/Delta 4/Op. Sr. Hikari Kou.md": "LiUser",
+  "Assets/Images/Le Feu moderne/PNJ's/Hikari Kou.png": "LiImage",
+  "Assets/Images/Monstres/gecko-zombie.png": "LiImage",
+  "JdR/Bestiaire/Gecko Zombie.md": "LiBiohazard"
 }

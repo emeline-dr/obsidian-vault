@@ -53,8 +53,34 @@ Le 3, d'où ils sortent, est toujours en chantier. Après le 3e étage, il n'y a
 Le complexe n'a pas des airs de fin du monde. Tout tient sur ses fondations. La seule chose, c'est la présence de la Nature qui reprend de plus en plus ses droits.
 
 ### Le militaire décédé
-Devant leur hôtel, il y a un *militaire* mort. Pas de drapeau sur uniforme. Juste un aigle orange et feu, enflammé, avec, en dessous un Delta et 4 étoiles. Il y a son nom avec ses bandelettes : Caporal Russel.
+Devant leur hôtel, il y a un *militaire* mort. Il y a des traces de griffes sur son visage, ses bras et ses jambes. Pas de drapeau sur uniforme. Juste un aigle orange et feu, enflammé, avec, en dessous un Delta et 4 étoiles. Il y a son nom avec ses bandelettes : Caporal J. Russel.
 
-Il a sur lui un *Samurai Edge*, avec *3 munitions de pistolet*, un *gilet léger* qui peuvent être pris sur lui. Il a aussi une *radio militaire* à 6 canaux.
 
 	La radio militaire
+- *Canal 1, celui des équipes Alpha* - Rien.
+- *Canal 2, celui des équipes Beta* - Des grésillements. Niké est signalée.
+- *Canal 3, celui des équipes Charlie* - Rien.
+- *Canal 4, celui des équipes Delta* - Rien.
+- *Canal 5* - Rien.
+- *Canal 6* - Connexion avec Casey, elle répète sans cesse : "William, si tu es là, réponds-moi."
+
+### Casey O'Neill, l'aide extérieure
+En entrant en contact, elle se présente comme "*La scientifique*". Elle préfère éviter de donner son identité avant de savoir s'ils sont de confiance.
+
+Elle leur promet de l'aide. Pour montrer qu'ils peuvent avoir confiance, elle leur indique que l'une des équipes Delta est en route pour récupérer l'homme qu'ils ont perdu. Celle de 4 étoiles. La 2e plus expérimentée de toutes les équipes Delta. Elle leur conseille de se cacher.
+
+### L'arrivée de l'équipe Delta 4 ★
+Un hélicoptère se met en stationnement. Quatre personnes descendent.
+
+- *S'il n'y a personne*, le corps est récupéré sans problème et ils repartent avec.
+- *Si quelqu'un — ou plusieurs PJ's — décident de rester à portée*, les 4 le(s) prennent en joue. 
+
+### La mission
+Casey doit avoir confiance en eux. Elle leur donne une mission d'une certaine importance pour prouver leur valeur.
+
+- Il y a un *marchand* quelque part. Les équipes en parlent mais ils ne le voient que passer, ils ne le retrouvent jamais. La dernière fois qu'il a été vu, c'était près du phare sur la falaise à Sud-Est du complexe hôtelier. Ce sera dangereux mais Casey veut en apprendre plus sur lui.
+	- Qu'importe le chemin emprunté, jet d'*1d20*.
+		- 1 à 4 : Rien.
+		- 5 à 8 : 2 (5/7) ou 3 (6/8) zombies normaux.
+		- 9 à 12 : 2 (9/11) ou 3 (10/12) chiens zombies.
+		- 13 à 16 : 5 (13/15) ou 6 (14/16) geckos zombies.

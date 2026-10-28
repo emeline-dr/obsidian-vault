@@ -3,7 +3,7 @@
 > # ☣ CHIEN ZOMBIE
 >  ![[zombie-dog.webp]]
 >  
-> **INFECTÉ** — **MENACE ★☆☆☆☆**
+> **MUTANT IRRÉGULIER** — **MENACE ★☆☆☆☆**
 >>[!description] 
 >>À ne pas confondre avec le Cerberus, le *Chien Zombie* est un des nombreux êtres canins touchés par le Virus-T. Ils ont été infectés suite à la consommation de chair infectée ou tout autre aliment — ou même l'eau — infecté.
 >>

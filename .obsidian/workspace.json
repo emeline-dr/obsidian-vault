@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "``Le Feu moderne``/PNJ's/Casey O'Neill.md",
+                "file": "JdR/Bestiaire/Gecko Zombie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Casey O'Neill"
-            }
-          },
-          {
-            "id": "ed0979787b6c8880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "``Le Feu moderne``/PNJ's/Delta 4/Lt. Luisa Ruiz.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lt. Luisa Ruiz"
+              "title": "Gecko Zombie"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +189,23 @@
       "obsidian-importer:Importer des notes": false
     }
   },
-  "active": "ed0979787b6c8880",
+  "active": "a1b478d3840c0a25",
   "lastOpenFiles": [
-    "``Le Feu moderne``/PNJ's/Casey O'Neill.md",
-    "``Le Feu moderne``/Scénario/Prise de notes.md",
+    "``Le Feu moderne``/Scénario/Session 1.md",
+    "JdR/Bestiaire/Gecko Zombie.md",
+    "JdR/Bestiaire/Chien Zombie.md",
+    "Assets/Images/Monstres/gecko-zombie.png",
+    "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
     "``Le Feu moderne``/PNJ's/Delta 4/Lt. Luisa Ruiz.md",
+    "``Le Feu moderne``/PNJ's/Delta 4/Cpl. John Russel DEAD.md",
+    "``Le Feu moderne``/Scénario/Prise de notes.md",
+    "``Le Feu moderne``/PNJ's/Delta 4/Op. Sr. Hikari Kou.md",
+    "Assets/Images/Le Feu moderne/PNJ's/Hikari Kou.png",
+    "``Le Feu moderne``/PNJ's/Delta 4/Op. Sr. Jorge Marquez.md",
+    "``Le Feu moderne``/PNJ's/Delta 4/Sgt-Chef Bradley Smith.md",
+    "``Le Feu moderne``/PNJ's/Delta 4/Op. Sr. Sergeï Ivanov.md",
+    "Sans titre.base",
+    "``Le Feu moderne``/PNJ's/Casey O'Neill.md",
     "``Le Feu moderne``/PNJ's/Arthur Cavendish.md",
     "``Le Feu moderne``/Organisations/Prometheus Biologics.md",
     "Templates/Personnage.md",
@@ -221,32 +218,20 @@
     "JdR/Équipement/Armes blanches & càc.md",
     "JdR/Manuel/Règles.md",
     "JdR/Manuel/Fiche de personnage.md",
-    "``Le Feu moderne``/PNJ's/Delta 4/Sans titre 3.md",
-    "``Le Feu moderne``/PNJ's/Delta 4/Sans titre 2.md",
-    "``Le Feu moderne``/PNJ's/Delta 4/Cpl. John Russel DEAD.md",
     "``Le Feu moderne``/PNJ's/Elowen O'Neill.md",
-    "``Le Feu moderne``/Scénario/Session 1.md",
     "Assets/Images/Le Feu moderne/PNJ's/Jorge Marquez.png",
     "Assets/Images/Le Feu moderne/PNJ's/Sergeï Ivanov.png",
     "Assets/Images/Le Feu moderne/PNJ's/Bradley Smith.png",
     "Assets/Images/Le Feu moderne/PNJ's/Luisa Ruiz.png",
-    "``Le Feu moderne``/PNJ's/Delta 4/Sans titre 1.md",
     "``Le Feu moderne``/PNJ's/Équipe Delta 4.md",
     "``Le Feu moderne``/PNJ's/Delta 4",
     "Assets/Images/Le Feu moderne/PNJ's/Delta-4.png",
-    "Sans titre.md",
-    "JdR/Équipement/Pistolets.md",
-    "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
-    "JdR/Bestiaire/Chien Zombie.md",
     "Assets/Images/Hôtel-Session-1.png",
-    "Sans titre.base",
     "Assets/Images/Monstres/Nanabozho.png",
     "Assets/Images/Le Feu moderne/Lieux/NISOS-KAFKASOS.png",
-    "Assets/Images/Monstres/zombie-dog.webp",
     "Assets/Images/Le Feu moderne/PNJ's",
     "Assets/Images/Le Feu moderne/Lieux",
     "``Le Feu moderne``/Lieux",
-    "Assets/Images/Monstres/Nike-1.png",
     "JdR/Bestiaire",
     "``Le Feu moderne``/Organisations",
     "Templates",

@@ -2,3 +2,7 @@
 - **Lieu :** Île Caucase, en Méditerranée.
 - **But de la campagne :** Survivre et s'échapper de l'île en vie.
 - **Pourquoi eux ?** Sans raison — ou à improviser selon le lore des personnages.
+	- *Natasha* - Trop de recherches, les équipes IT ont découvert qu'elle se rapprochait trop d'eux.
+	- *??* -
+	- *??* -
+	- *??* -
