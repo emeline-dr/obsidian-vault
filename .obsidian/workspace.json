@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JdR/Manuel/Liste des compétences.md",
+                "file": "``Le Feu moderne``/PNJ's/Équipe Delta 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liste des compétences"
+              "title": "Équipe Delta 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,20 +204,22 @@
       "obsidian-importer:Importer des notes": false
     }
   },
-  "active": "a1b478d3840c0a25",
+  "active": "ed0979787b6c8880",
   "lastOpenFiles": [
+    "``Le Feu moderne``/PNJ's/Elowen O'Neill.md",
+    "``Le Feu moderne``/PNJ's/Équipe Delta 4.md",
+    "``Le Feu moderne``/Scénario/Session 1.md",
+    "``Le Feu moderne``/Organisations/Prometheus Biologics.md",
     "JdR/Manuel/Liste des compétences.md",
-    "JdR/Équipement/Protections.md",
     "JdR/Manuel/Règles.md",
+    "JdR/Équipement/Protections.md",
     "Sans titre.md",
     "JdR/Manuel/Fiche de personnage.md",
     "JdR/Manuel/Créer un PNJ.md",
-    "``Le Feu moderne``/Scénario/Session 1.md",
     "JdR/Équipement/Pistolets.md",
     "JdR/Équipement/Magnums.md",
     "JdR/Équipement/Fusils.md",
     "JdR/Équipement/Fusils d'assaut.md",
-    "``Le Feu moderne``/Organisations/Prometheus Biologics.md",
     "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
     "JdR/Bestiaire/Chien Zombie.md",
     "JdR/Bestiaire/Crimson Head.md",
@@ -224,7 +227,6 @@
     "JdR/Bestiaire/Nanabozho.md",
     "JdR/Bestiaire/Niké.md",
     "JdR/Bestiaire/Zombie Virus-T.md",
-    "``Le Feu moderne``/PNJ's/Elowen O'Neill.md",
     "``Le Feu moderne``/PNJ's/Casey O'Neill.md",
     "``Le Feu moderne``/PNJ's/Arthur Cavendish.md",
     "``Le Feu moderne``/Scénario/Prise de notes.md",
@@ -234,7 +236,6 @@
     "Assets/Images/Le Feu moderne/Lieux/NISOS-KAFKASOS.png",
     "JdR/Équipement/Armes blanches & càc.md",
     "``Le Feu moderne``/PNJ's/William.md",
-    "JdR/Manuel/Artisanat.md",
     "Assets/Images/Monstres/zombie-dog.webp",
     "Assets/Images/Le Feu moderne/PNJ's",
     "Assets/Images/Le Feu moderne/Lieux",

@@ -57,4 +57,4 @@ Devant leur hôtel, il y a un *militaire* mort. Pas de drapeau sur uniforme. Il 
 
 Il a sur lui un *Samurai Edge*, avec *3 munitions de pistolet*, un *gilet léger* qui peuvent être pris sur lui. Il a aussi une *radio militaire* à 6 canaux.
 
-#### La radio militaire
+	La radio militaire
