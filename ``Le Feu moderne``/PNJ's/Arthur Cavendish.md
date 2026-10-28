@@ -12,7 +12,6 @@
 > > > > - **Emploi** Homme d'affaires, fondateur de [[Prometheus Biologics]]
 > > > > - **Langue(s) parlée(s)** Anglais, chinois.
 > > > > - **Taille** 1m89.
-> > > > - **Poids** 80kg.
 > >
 > > > [!col-md]
 > > > ![[Arthur-Cavendish.png|portrait]]
@@ -23,9 +22,9 @@
 > | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 > | 2 | 3 | 3 | 5 | 6 | 2 | 4 | 3 |
 > 
-> | PV | INITIATIVE | DISTANCE |
-> | :---: | :---: | :---: |
-> | 12 (*3x4*) | 1d6 - 3 | 6m |
+> | PV | DISTANCE |
+> | :---: | :---: |
+> | 12 (*3x4*) | 6m |
 > ---
 > ## Compétences
 > - **Persuasion** +3

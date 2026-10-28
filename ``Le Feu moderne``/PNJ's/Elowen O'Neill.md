@@ -12,7 +12,6 @@
 > > > > - **Emploi** Galériste.
 > > > > - **Langue(s) parlée(s)** Anglais, gaélique irlandais.
 > > > > - **Taille** 1m63.
-> > > > - **Poids** 60kg.
 > >
 > > > [!col-md]
 > > > ![[Elowen-ONeill.png|portrait]]
@@ -23,9 +22,9 @@
 > | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 > | 2 | 4 | 3 | 4 | 1 | 4 | 5 | 5 |
 > 
-> | PV | INITIATIVE | DISTANCE |
-> | :---: | :---: | :---: |
-> | 12 (*3x4*) | 1d6 - 4 | 8m |
+> | PV | DISTANCE |
+> | :---: |:---: |
+> | 12 (*3x4*) | 8m |
 > ---
 > ## Compétences
 > - **Armes de jet** +2

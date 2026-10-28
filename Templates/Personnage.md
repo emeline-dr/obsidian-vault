@@ -12,7 +12,6 @@
 > > > > - **Emploi** écrire ici
 > > > > - **Langue(s) parlée(s)** écrire ici
 > > > > - **Taille** écrire
-> > > > - **Poids** écrire
 > >
 > > > [!col-md]
 > > > ![[default.jpg|portrait]]
@@ -23,9 +22,9 @@
 > | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 > | ? | ? | ? | ? | ? | ? | ? | ? |
 > 
-> | PV | INITIATIVE | DISTANCE |
-> | :---: | :---: | :---: |
-> | ? (*?x4*) | 1d6 - ? | ?m |
+> | PV | DISTANCE |
+> | :---: | :---: |
+> | ? (*?x4*) | ?m |
 > ---
 > ## Compétences
 > - Blabla +1 

@@ -12,7 +12,6 @@
 > > > > - **Emploi** Virologue pour Prometheus.
 > > > > - **Langue(s) parlée(s)** Anglais, français.
 > > > > - **Taille** 1m70.
-> > > > - **Poids** 70kg.
 > >
 > > > [!col-md]
 > > > ![[Casey-ONeill.png|portrait]]
@@ -23,9 +22,9 @@
 > | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 > | 2 | 1**²** | 2 | 5 | 3 | 6 | 4 | 5 |
 > 
-> | PV | INITIATIVE | DISTANCE |
-> | :---: | :---: | :---: |
-> | 8 (*2x4*) | 1d6 - 1 | 2m |
+> | PV | DISTANCE |
+> | :---: | :---: |
+> | 8 (*2x4*) | 2m |
 > 
 > - **²** Casey ne peut pas avoir plus de 1 en AGL du fait de sa blessure à la jambe droite.
 > ---
