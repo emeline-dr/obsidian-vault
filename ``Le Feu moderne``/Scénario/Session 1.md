@@ -14,7 +14,7 @@ Les joueurs qui observent la pièce : Un jet de **PER x2**. Description des cham
 ![[Hôtel-Session-1.png]]
 
 ### Les chambres
-Toutes les chambres sont aménagées comme le sont celles d'un hôtel : un lit, des tables de chevet, une commode avec une TV, une télécommande et même un programme télé de la semaine d'où arrivent les occupants (*ainsi, dans la chambre 121, le magazine date de 2015, la semaine où Elowen a été enlevée*), une salle de bain avec baignoire, évier, toilettes et une terrasse qui donne vers la plage et la mer. À l'entrée, il y a un petit bloc avec une carte insérée, qui est la carte de la chambre. En la retirant, le courant se coupe dans la chambre. Si les PJ's sortent, sans la prendre, ils ne peuvent plus revenir.
+Toutes les chambres sont aménagées comme le sont celles d'un hôtel : un lit, des tables de chevet, une commode (*dans la commode, il y des vêtements, les PJ's remarquent que ce sont les leurs*) avec une TV, une télécommande et même un programme télé de la semaine d'où arrivent les occupants (*ainsi, dans la chambre 121, le magazine date de 2015, la semaine où Elowen a été enlevée*), une salle de bain avec baignoire, évier, toilettes et une terrasse qui donne vers la plage et la mer. À l'entrée, il y a un petit bloc avec une carte insérée, qui est la carte de la chambre. En la retirant, le courant se coupe dans la chambre. Si les PJ's sortent, sans la prendre, ils ne peuvent plus revenir.
 
 La TV, si on l'allume, ne montre rien.
 
