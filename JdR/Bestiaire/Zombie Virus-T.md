@@ -13,9 +13,9 @@
 >
 > ---
 >
-> | PV  | DÉPLACEMENT | INITIATIVE | ATTAQUE | DÉGÂTS |
-> | :---: | :---: | :---: | :---: | :---: |
-> | Indéterminé | 2m | 1d6 - 1 | 3 ou - | 1d2 + 1 | 
+> | PV  | DÉPLACEMENT | ATTAQUE | DÉGÂTS |
+> | :---: | :---: | :---: | :---: |
+> | Indéterminé | 2m | 3 ou - | 1d2 + 1 | 
 >
 > ---
 >

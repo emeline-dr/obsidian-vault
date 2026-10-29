@@ -11,9 +11,9 @@
 >
 > ---
 >
-> | PV  | DÉPLACEMENT | INITIATIVE | ATTAQUE | DÉGÂTS |
-> | :---: | :---: | :---: | :---: | :---: |
-> | ? | ?m | 1d6 - ? | ? ou - | ? | 
+> | PV  | DÉPLACEMENT | ATTAQUE | DÉGÂTS |
+> | :---: | :---: | :---: | :---: |
+> | ? | ?m | ? ou - | ? | 
 >
 > ---
 >

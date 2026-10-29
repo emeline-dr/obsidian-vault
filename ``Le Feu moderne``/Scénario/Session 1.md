@@ -83,4 +83,5 @@ Casey doit avoir confiance en eux. Elle leur donne une mission d'une certaine im
 		- 1 à 4 : Rien.
 		- 5 à 8 : 2 (5/7) ou 3 (6/8) zombies normaux.
 		- 9 à 12 : 2 (9/11) ou 3 (10/12) chiens zombies.
-		- 13 à 16 : 5 (13/15) ou 6 (14/16) geckos zombies.
+		- 13 à 16 : 5 (13/15) ou 8 (14/16) geckos zombies.
+		- 17 à 20 : 1 (17/19) ou 2 (18/20) sangliers zombies.

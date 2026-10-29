@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JdR/Bestiaire/Gecko Zombie.md",
+                "file": "``Le Feu moderne``/Scénario/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gecko Zombie"
+              "title": "Session 1"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Lieux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,9 +191,18 @@
   },
   "active": "a1b478d3840c0a25",
   "lastOpenFiles": [
+    "JdR/Bestiaire/Sanglier Zombie.md",
+    "Assets/Images/Monstres/sanglier-zombie.png",
+    "JdR/Bestiaire/Crimson Head.md",
+    "JdR/Bestiaire/Chien Zombie.md",
+    "JdR/Bestiaire/Nanabozho.md",
+    "JdR/Bestiaire/Niké.md",
+    "JdR/Bestiaire/Zombie Virus-T.md",
     "``Le Feu moderne``/Scénario/Session 1.md",
     "JdR/Bestiaire/Gecko Zombie.md",
-    "JdR/Bestiaire/Chien Zombie.md",
+    "Templates/Monstre.md",
+    "JdR/Manuel/Liste des compétences.md",
+    "JdR/Bestiaire/Licker.md",
     "Assets/Images/Monstres/gecko-zombie.png",
     "``Le Feu moderne``/Lieux/ΝΗΣΟΣ ΚΑΥΚΑΣΟΣ.md",
     "``Le Feu moderne``/PNJ's/Delta 4/Lt. Luisa Ruiz.md",
@@ -211,24 +220,14 @@
     "Templates/Personnage.md",
     "JdR/Équipement/Protections.md",
     "JdR/Équipement/Magnums.md",
-    "JdR/Équipement/Fusils.md",
-    "JdR/Manuel/Liste des compétences.md",
-    "JdR/Manuel/Créer un PNJ.md",
-    "JdR/Équipement/Fusils d'assaut.md",
-    "JdR/Équipement/Armes blanches & càc.md",
-    "JdR/Manuel/Règles.md",
-    "JdR/Manuel/Fiche de personnage.md",
-    "``Le Feu moderne``/PNJ's/Elowen O'Neill.md",
     "Assets/Images/Le Feu moderne/PNJ's/Jorge Marquez.png",
     "Assets/Images/Le Feu moderne/PNJ's/Sergeï Ivanov.png",
     "Assets/Images/Le Feu moderne/PNJ's/Bradley Smith.png",
     "Assets/Images/Le Feu moderne/PNJ's/Luisa Ruiz.png",
-    "``Le Feu moderne``/PNJ's/Équipe Delta 4.md",
     "``Le Feu moderne``/PNJ's/Delta 4",
     "Assets/Images/Le Feu moderne/PNJ's/Delta-4.png",
     "Assets/Images/Hôtel-Session-1.png",
     "Assets/Images/Monstres/Nanabozho.png",
-    "Assets/Images/Le Feu moderne/Lieux/NISOS-KAFKASOS.png",
     "Assets/Images/Le Feu moderne/PNJ's",
     "Assets/Images/Le Feu moderne/Lieux",
     "``Le Feu moderne``/Lieux",
