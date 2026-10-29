@@ -118,5 +118,8 @@
   "Assets/Images/Le Feu moderne/PNJ's/Hikari Kou.png": "LiImage",
   "Assets/Images/Monstres/gecko-zombie.png": "LiImage",
   "JdR/Bestiaire/Gecko Zombie.md": "LiBiohazard",
-  "JdR/Bestiaire/Sanglier Zombie.md": "LiBiohazard"
+  "JdR/Bestiaire/Sanglier Zombie.md": "LiBiohazard",
+  "``Le Feu moderne``/PNJ's/La Marchande.md": "LiUser",
+  "Assets/Images/Le Feu moderne/complexe-hotelier.png": "LiImage",
+  "Assets/Images/Le Feu moderne/PNJ's/the-merchant.png": "LiImage"
 }

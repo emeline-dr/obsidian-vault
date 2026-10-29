@@ -44,13 +44,15 @@ S'ils prennent l'ascenseur, il y a des boutons jusqu'à l'étage 10. Mais ils ne
 Ils permettent de monter et de descendre sans problème. Ils sont récents dans leur construction.
 
 ### Le complexe hôtelier
-Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *6 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
+Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *7 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
 
 - *Si demande de test de PER + test Réussi* - le PJ remarque qu'ils ont tous un âge différent, le 0 est le plus ancien.
 
 Le 3, d'où ils sortent, est toujours en chantier. Après le 3e étage, il n'y a que des échafaudages. Le 4, 5 et 6, ce sont les fondations qui sont en train d'être coulées.
 
 Le complexe n'a pas des airs de fin du monde. Tout tient sur ses fondations. La seule chose, c'est la présence de la Nature qui reprend de plus en plus ses droits.
+
+![[complexe-hotelier.png]]
 
 ### Le militaire décédé
 Devant leur hôtel, il y a un *militaire* mort. Il y a des traces de griffes sur son visage, ses bras et ses jambes. Pas de drapeau sur uniforme. Juste un aigle orange et feu, enflammé, avec, en dessous un Delta et 4 étoiles. Il y a son nom avec ses bandelettes : Caporal J. Russel.
@@ -78,7 +80,7 @@ Un hélicoptère se met en stationnement. Quatre personnes descendent.
 ### La mission
 Casey doit avoir confiance en eux. Elle leur donne une mission d'une certaine importance pour prouver leur valeur.
 
-- Il y a un *marchand* quelque part. Les équipes en parlent mais ils ne le voient que passer, ils ne le retrouvent jamais. La dernière fois qu'il a été vu, c'était près du phare sur la falaise à Sud-Est du complexe hôtelier. Ce sera dangereux mais Casey veut en apprendre plus sur lui.
+- Il y a un *marchand* quelque part. Les équipes en parlent mais ils ne le voient que passer, ils ne le retrouvent jamais. La dernière fois qu'il a été vu, c'était près du phare sur la falaise à Sud-Est du complexe hôtelier. Ce sera dangereux mais Casey veut en apprendre plus sur lui. *Deux chemins* : par la plage, court mais plus fatiguant (*7km, 1h30 de route — jet de CON pour vérifier si pas +, vu le terrain*). Par le sentier dans la forêt, long mais moins fatiguant (*9km, 2h*).
 	- Qu'importe le chemin emprunté, jet d'*1d20*.
 		- 1 à 4 : Rien.
 		- 5 à 8 : 2 (5/7) ou 3 (6/8) zombies normaux.
