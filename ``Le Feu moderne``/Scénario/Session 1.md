@@ -14,7 +14,7 @@ Les joueurs qui observent la pièce : Un jet de **PER x2**. Description des cham
 ![[Hôtel-Session-1.png]]
 
 ### Les chambres
-Toutes les chambres sont aménagées comme le sont celles d'un hôtel : un lit, des tables de chevet, une commode (*dans la commode, il y des vêtements, les PJ's remarquent que ce sont les leurs*) avec une TV, une télécommande et même un programme télé de la semaine d'où arrivent les occupants (*ainsi, dans la chambre 121, le magazine date de 2015, la semaine où Elowen a été enlevée*), une salle de bain avec baignoire, évier, toilettes et une terrasse qui donne vers la plage et la mer. À l'entrée, il y a un petit bloc avec une carte insérée, qui est la carte de la chambre. En la retirant, le courant se coupe dans la chambre. Si les PJ's sortent, sans la prendre, ils ne peuvent plus revenir.
+Toutes les chambres sont aménagées comme le sont celles d'un hôtel : un lit, des tables de chevet, une commode (*dans la commode, il y a des vêtements, les PJ's remarquent que ce sont les leurs*) avec une TV, un mini-frigo avec *2 repas*, une télécommande et même un programme télé de la semaine d'où arrivent les occupants (*ainsi, dans la chambre 121, le magazine date de 2015, la semaine où Elowen a été enlevée*), une salle de bain avec baignoire, évier, toilettes et une terrasse qui donne vers la plage et la mer. À l'entrée, il y a un petit bloc avec une carte insérée, qui est la carte de la chambre. En la retirant, le courant se coupe dans la chambre. Si les PJ's sortent, sans la prendre, ils ne peuvent plus revenir.
 
 La TV, si on l'allume, ne montre rien.
 
@@ -44,7 +44,7 @@ S'ils prennent l'ascenseur, il y a des boutons jusqu'à l'étage 10. Mais ils ne
 Ils permettent de monter et de descendre sans problème. Ils sont récents dans leur construction.
 
 ### Le complexe hôtelier
-Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *7 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
+Les PJ's remarquent qu'ils sont dans un complexe hôtelier constitué de *6 hôtels*. Trois sont entièrement construits, ils ont des plaques là où est le nom des hôtels : 0, 1, 2...
 
 - *Si demande de test de PER + test Réussi* - le PJ remarque qu'ils ont tous un âge différent, le 0 est le plus ancien.
 
@@ -80,10 +80,17 @@ Un hélicoptère se met en stationnement. Quatre personnes descendent.
 ### La mission
 Casey doit avoir confiance en eux. Elle leur donne une mission d'une certaine importance pour prouver leur valeur.
 
-- Il y a un *marchand* quelque part. Les équipes en parlent mais ils ne le voient que passer, ils ne le retrouvent jamais. La dernière fois qu'il a été vu, c'était près du phare sur la falaise à Sud-Est du complexe hôtelier. Ce sera dangereux mais Casey veut en apprendre plus sur lui. *Deux chemins* : par la plage, court mais plus fatiguant (*7km, 1h30 de route — jet de CON pour vérifier si pas +, vu le terrain*). Par le sentier dans la forêt, long mais moins fatiguant (*9km, 2h*).
-	- Qu'importe le chemin emprunté, jet d'*1d20*.
+- Il y a un *marchand* quelque part. Les équipes en parlent mais ils ne le voient que passer, ils ne le retrouvent jamais. La dernière fois qu'il a été vu, c'était près du phare sur la falaise à Sud-Est du complexe hôtelier. Ce sera dangereux mais Casey veut en apprendre plus sur lui.
+	- Jet d'*1d20*.
 		- 1 à 4 : Rien.
 		- 5 à 8 : 2 (5/7) ou 3 (6/8) zombies normaux.
 		- 9 à 12 : 2 (9/11) ou 3 (10/12) chiens zombies.
 		- 13 à 16 : 5 (13/15) ou 8 (14/16) geckos zombies.
 		- 17 à 20 : 1 (17/19) ou 2 (18/20) sangliers zombies.
+
+- *60 km de sentier avec dénivelé jusqu'au phare* : 4 jours de marche.
+
+### Fin Jour 1
+### Fin Jour 2
+### Fin Jour 3
+### L'arrivée au phare
