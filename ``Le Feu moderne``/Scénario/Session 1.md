@@ -4,6 +4,8 @@
 	- Si aucun ne tire la 337, William s'y réveille.
 	- Si quelqu'un tire la 337, il est dans celle qui reste.
 
+https://www.youtube.com/watch?v=ZcVmS-YMM4Q&list=RDZcVmS-YMM4Q
+
 ### Introduction
 "*Vous étiez chez vous ou ailleurs. Peut-être sur la route ou au travail. Vous faisiez votre vie. Vous aviez peut-être des problèmes ou non, il se peut que votre vie soit des plus monotones et tranquilles. Dans tous les cas, ce soir-là, vous vous êtes senti très fatigué. Votre corps était lourd, endolori comme si vous veniez de passer une journée à courir. Vos yeux se sont fermés puis rouverts, vous avez clignés des paupières avant de les fermer.*
 
