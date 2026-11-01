@@ -112,7 +112,7 @@
 - **Crochetage** (AGL + NCT)
 	- La capacité à faire de tout verrou, un petit contretemps, rien du plus. Juste le temps de le déverrouiller.
 
-- **Cuisine** (AGL + NCT)
+- **Cuisine** (NCT x2)
 	- La capacité à créer des recettes et des rations comestibles à partir de peu d'ingrédients.
 
 - **Discrétion** (AGL + SNG)
