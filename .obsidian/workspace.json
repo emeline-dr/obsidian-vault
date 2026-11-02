@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JdR/Manuel/Liste des compétences.md",
+                "file": "JdR/Manuel/Règles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liste des compétences"
+              "title": "Règles"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "2215210fe28105a6",
   "lastOpenFiles": [
-    "JdR/Manuel/Faim & Nourriture.md",
     "JdR/Manuel/Liste des compétences.md",
+    "JdR/Manuel/Faim & Nourriture.md",
     "``Le Feu moderne``/Scénario/Session 1.md",
     "JdR/Bestiaire/Gecko Zombie.md",
     "JdR/Manuel/Fiche de personnage.md",
