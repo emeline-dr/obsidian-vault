@@ -61,7 +61,7 @@
 	- La faculté de rechercher, de faire des liens en les indices... Un travail d'enquête et un meilleur sens de la déduction.
 
 - **Pilotage** (AGL + SNG)
-	- La faculté à conduire des véhicules/
+	- La faculté à conduire des véhicules.
 
 <br>
 
