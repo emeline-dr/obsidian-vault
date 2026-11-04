@@ -21,7 +21,7 @@
 
 <br>
 
->[!rule] Combat
+>[!rule] Connaissances
 
 - **Artificier** (Situationnel : NCT + PER ou NCT + AGL)
 	- L'art de connaître les explosifs, de reconnaître leur mécanisme - ou de le deviner -, de les désamorcer ou... Tout simplement d'en créer.
@@ -60,14 +60,8 @@
 - **Investigation** (2x PER)
 	- La faculté de rechercher, de faire des liens en les indices... Un travail d'enquête et un meilleur sens de la déduction.
 
-- **Pilotage (véhicules aériens)** (AGL + SNG)
-	- La faculté à conduire des véhicules destinés à voler.
-
-- **Pilotage (véhicules marins)** (AGL + SNG)
-	- La faculté à conduire des véhicules allant sur l'eau.
-
-- **Pilotage (véhicules terrestres)** (AGL + SNG)
-	- La faculté à conduire tout type de véhicule sur terre.
+- **Pilotage** (AGL + SNG)
+	- La faculté à conduire des véhicules/
 
 <br>
 
