@@ -35,7 +35,9 @@ La main passe à l'autre camp suivant certaines règles.
 <br>
 >[!rule] Changement de main
 
-Lors d'un combat, le changement est déterminé par
+Lors d'un combat, le changement est déterminé par les joueurs s'ils ont la main ou par le MJ s'il l'a. Un round se termine lorsque les joueurs et les ennemis ont tous eu leur action. 
+
+*Attention*, il se peut qu'un ennemi ait plusieurs opportunités lors d'un seul round. Les joueurs doivent donc faire attention à ne pas se laisser submerger.
 <br>
 
 >[!rule] Déroulement d'un combat
